@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnGenie - Your Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        :root {
+            --primary-color: #4f46e5;
+            --secondary-color: #4338ca;
+            --text-color: #1f2937;
+            --light-bg: #f3f4f6;
+            --border-color: #e5e7eb;
+        }
+
+        /* Keep existing nav, container, and sidebar styles unchanged */
+        .nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 1rem 2rem;
+            background: var(--primary-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            color: white;
+        }
+
+        .logo {
+            color: white;
+            font-weight: bold;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+
+        .dashboard-container {
+            display: flex;
+            min-height: 100vh;
+            padding-top: 64px;
+        }
+
+        .sidebar {
+            width: 250px;
+            background: white;
+            border-right: 1px solid var(--border-color);
+            padding: 2rem;
+        }
+
+        .main-content {
+            flex: 1;
+            background: var(--light-bg);
+            padding: 2rem;
+        }
+
+        .profile-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .profile-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 0 auto 1.5rem;
+            border: 4px solid var(--primary-color);
+            padding: 4px;
+        }
+
+        .profile-name {
+            font-size: 1.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .profile-title {
+            color: #666;
+            margin-bottom: 1.5rem;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .social-link {
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            text-decoration: none;
+            color: white;
+            background: var(--primary-color);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: background 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: var(--secondary-color);
+        }
+
+        /* New styles for individual flashcards */
+        .flashcards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            padding: 1rem;
+        }
+
+        .flashcard {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            height: 200px;
+            perspective: 1000px;
+            cursor: pointer;
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+
+        .flashcard:hover .flashcard-inner {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-front, .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: white;
+            border-radius: 12px;
+        }
+
+        .flashcard-back {
+            background: var(--primary-color);
+            color: white;
+            transform: rotateY(180deg);
+            border-radius: 12px;
+        }
+
+        .flashcard-timestamp {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            font-size: 0.8rem;
+            color: #666;
+        }
+
+        .flashcard-actions {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .action-btn {
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            border: none;
+            background: var(--secondary-color);
+            color: white;
+            cursor: pointer;
+            font-size: 0.8rem;
+        }
+
+        .search-bar {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 1.5rem;
+            font-size: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .dashboard-container {
+                flex-direction: column;
+            }
+            .sidebar {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid var(--border-color);
+            }
+            .flashcards-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Add these new styles */
+        .edit-input {
+            width: 90%;
+            height: 80%;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            resize: none;
+        }
+
+        .save-btn {
+            display: none;
+        }
+
+        .editing .save-btn {
+            display: inline-block;
+        }
+
+        .editing .edit-btn {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <a href="#" class="logo">LearnGenie</a>
+        <div class="nav-buttons">
+            <a href="/logout" style="color: white; text-decoration: none;">Logout</a>
+        </div>
+    </nav>
+
+    <div class="dashboard-container">
+        <aside class="sidebar">
+            <div class="profile-section">
+                <h2 class="profile-name">User Profile</h2>
+                <p class="profile-title">Student</p>
+                <div class="social-links">
+                    <a href="https://github.com" class="social-link">
+                        GitHub
+                    </a>
+                    <a href="https://linkedin.com" class="social-link">
+                        LinkedIn
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <input type="text" class="search-bar" placeholder="Search your flashcards...">
+            <div class="flashcards-container">
+                <% if (typeof flashcardPoints !== 'undefined' && flashcardPoints.length > 0) { %>
+                    <% flashcardPoints.forEach((point, index) => { %>
+                        <div class="flashcard" data-id="<%= index %>">
+                            <div class="flashcard-inner">
+                                <div class="flashcard-front">
+                                    <h3>Key Point <%= index + 1 %></h3>
+                                    <div class="flashcard-timestamp">Created: <%= new Date().toLocaleDateString() %></div>
+                                    <div class="flashcard-actions">
+                                        <button class="action-btn edit-btn" onclick="editFlashcard(this)">Edit</button>
+                                        <button class="action-btn save-btn" onclick="saveFlashcard(this)">Save</button>
+                                        <button class="action-btn">Delete</button>
+                                    </div>
+                                </div>
+                                <div class="flashcard-back">
+                                    <p class="content-text"><%= point %></p>
+                                    <textarea class="edit-input" style="display: none;"><%= point %></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    <% }); %>
+                <% } else { %>
+                    <!-- Your existing example flashcards here -->
+                <% } %>
+            </div>
+        </main>
+    </div>
+
+    <script>
+    function editFlashcard(button) {
+        const flashcard = button.closest('.flashcard');
+        const contentText = flashcard.querySelector('.content-text');
+        const editInput = flashcard.querySelector('.edit-input');
+        
+        contentText.style.display = 'none';
+        editInput.style.display = 'block';
+        flashcard.classList.add('editing');
+    }
+
+    function saveFlashcard(button) {
+        const flashcard = button.closest('.flashcard');
+        const contentText = flashcard.querySelector('.content-text');
+        const editInput = flashcard.querySelector('.edit-input');
+        const flashcardId = flashcard.dataset.id;
+        
+        // यहाँ आप AJAX request भेज सकते हैं सर्वर पर डेटा सेव करने के लिए
+        // fetch('/api/flashcards/' + flashcardId, {
+        //     method: 'PUT',
+        //     body: JSON.stringify({ content: editInput.value }),
+        //     headers: { 'Content-Type': 'application/json' }
+        // });
+
+        contentText.textContent = editInput.value;
+        contentText.style.display = 'block';
+        editInput.style.display = 'none';
+        flashcard.classList.remove('editing');
+    }
+    </script>
+</body>
+</html>

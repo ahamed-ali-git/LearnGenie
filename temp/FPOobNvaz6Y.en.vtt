@@ -1,0 +1,1872 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.630 align:start position:0%
+ 
+in<00:00:00.199><c> this</c><00:00:00.320><c> video</c><00:00:00.599><c> I'll</c><00:00:00.760><c> share</c><00:00:01.040><c> an</c><00:00:01.199><c> approach</c>
+
+00:00:01.630 --> 00:00:01.640 align:start position:0%
+in this video I'll share an approach
+ 
+
+00:00:01.640 --> 00:00:03.389 align:start position:0%
+in this video I'll share an approach
+which<00:00:01.839><c> makes</c><00:00:02.200><c> the</c><00:00:02.360><c> process</c><00:00:02.639><c> of</c><00:00:02.800><c> learning</c><00:00:03.159><c> data</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+which makes the process of learning data
+ 
+
+00:00:03.399 --> 00:00:05.190 align:start position:0%
+which makes the process of learning data
+science<00:00:03.800><c> actually</c><00:00:04.160><c> very</c><00:00:04.359><c> easy</c><00:00:04.759><c> if</c><00:00:04.880><c> you</c><00:00:05.040><c> have</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+science actually very easy if you have
+ 
+
+00:00:05.200 --> 00:00:07.070 align:start position:0%
+science actually very easy if you have
+spent<00:00:05.560><c> any</c><00:00:05.759><c> time</c><00:00:05.960><c> learning</c><00:00:06.319><c> data</c><00:00:06.560><c> science</c><00:00:06.960><c> you</c>
+
+00:00:07.070 --> 00:00:07.080 align:start position:0%
+spent any time learning data science you
+ 
+
+00:00:07.080 --> 00:00:09.190 align:start position:0%
+spent any time learning data science you
+would<00:00:07.279><c> know</c><00:00:07.640><c> that</c><00:00:08.040><c> data</c><00:00:08.320><c> science</c><00:00:08.599><c> is</c><00:00:08.719><c> a</c><00:00:08.960><c> very</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+would know that data science is a very
+ 
+
+00:00:09.200 --> 00:00:11.270 align:start position:0%
+would know that data science is a very
+vast<00:00:09.480><c> field</c><00:00:09.920><c> where</c><00:00:10.080><c> you</c><00:00:10.240><c> have</c><00:00:10.360><c> to</c><00:00:10.559><c> cover</c><00:00:10.960><c> a</c><00:00:11.120><c> lot</c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+vast field where you have to cover a lot
+ 
+
+00:00:11.280 --> 00:00:14.549 align:start position:0%
+vast field where you have to cover a lot
+of<00:00:11.519><c> topics</c><00:00:12.000><c> including</c><00:00:12.719><c> programming</c><00:00:13.559><c> SQL</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+of topics including programming SQL
+ 
+
+00:00:14.559 --> 00:00:17.189 align:start position:0%
+of topics including programming SQL
+statistics<00:00:15.440><c> probability</c><00:00:16.240><c> and</c><00:00:16.440><c> much</c><00:00:16.680><c> more</c><00:00:17.080><c> and</c>
+
+00:00:17.189 --> 00:00:17.199 align:start position:0%
+statistics probability and much more and
+ 
+
+00:00:17.199 --> 00:00:20.070 align:start position:0%
+statistics probability and much more and
+for<00:00:17.480><c> most</c><00:00:17.800><c> people</c><00:00:18.480><c> this</c><00:00:18.680><c> becomes</c><00:00:19.160><c> a</c><00:00:19.439><c> very</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+for most people this becomes a very
+ 
+
+00:00:20.080 --> 00:00:21.750 align:start position:0%
+for most people this becomes a very
+difficult<00:00:20.320><c> task</c><00:00:20.760><c> since</c><00:00:21.039><c> I've</c><00:00:21.240><c> been</c><00:00:21.400><c> a</c><00:00:21.560><c> data</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+difficult task since I've been a data
+ 
+
+00:00:21.760 --> 00:00:23.790 align:start position:0%
+difficult task since I've been a data
+science<00:00:22.000><c> student</c><00:00:22.359><c> myself</c><00:00:22.680><c> for</c><00:00:22.880><c> over</c><00:00:23.119><c> 10</c><00:00:23.400><c> years</c>
+
+00:00:23.790 --> 00:00:23.800 align:start position:0%
+science student myself for over 10 years
+ 
+
+00:00:23.800 --> 00:00:25.990 align:start position:0%
+science student myself for over 10 years
+having<00:00:24.080><c> learn</c><00:00:24.480><c> data</c><00:00:24.760><c> science</c><00:00:25.080><c> from</c><00:00:25.400><c> books</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+having learn data science from books
+ 
+
+00:00:26.000 --> 00:00:28.790 align:start position:0%
+having learn data science from books
+courses<00:00:27.000><c> tutorials</c><00:00:27.960><c> and</c><00:00:28.119><c> most</c><00:00:28.359><c> importantly</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+courses tutorials and most importantly
+ 
+
+00:00:28.800 --> 00:00:30.749 align:start position:0%
+courses tutorials and most importantly
+working<00:00:29.119><c> on</c><00:00:29.279><c> some</c><00:00:29.480><c> real</c><00:00:29.720><c> life</c><00:00:30.080><c> projects</c><00:00:30.560><c> at</c>
+
+00:00:30.749 --> 00:00:30.759 align:start position:0%
+working on some real life projects at
+ 
+
+00:00:30.759 --> 00:00:33.950 align:start position:0%
+working on some real life projects at
+companies<00:00:31.279><c> like</c><00:00:31.480><c> meta</c><00:00:32.279><c> Cisco</c><00:00:32.960><c> Wells</c><00:00:33.399><c> Fargo</c><00:00:33.879><c> I</c>
+
+00:00:33.950 --> 00:00:33.960 align:start position:0%
+companies like meta Cisco Wells Fargo I
+ 
+
+00:00:33.960 --> 00:00:35.709 align:start position:0%
+companies like meta Cisco Wells Fargo I
+wanted<00:00:34.200><c> to</c><00:00:34.280><c> share</c><00:00:34.559><c> my</c><00:00:34.719><c> thoughts</c><00:00:35.040><c> based</c><00:00:35.280><c> on</c><00:00:35.520><c> my</c>
+
+00:00:35.709 --> 00:00:35.719 align:start position:0%
+wanted to share my thoughts based on my
+ 
+
+00:00:35.719 --> 00:00:38.030 align:start position:0%
+wanted to share my thoughts based on my
+years<00:00:35.960><c> of</c><00:00:36.200><c> experience</c><00:00:37.000><c> what's</c><00:00:37.239><c> the</c><00:00:37.440><c> easiest</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+years of experience what's the easiest
+ 
+
+00:00:38.040 --> 00:00:39.990 align:start position:0%
+years of experience what's the easiest
+path<00:00:38.320><c> to</c><00:00:38.480><c> learn</c><00:00:38.760><c> data</c><00:00:39.040><c> science</c><00:00:39.520><c> but</c><00:00:39.680><c> before</c><00:00:39.879><c> I</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+path to learn data science but before I
+ 
+
+00:00:40.000 --> 00:00:41.510 align:start position:0%
+path to learn data science but before I
+go<00:00:40.120><c> to</c><00:00:40.320><c> that</c><00:00:40.480><c> I</c><00:00:40.600><c> wanted</c><00:00:40.840><c> to</c><00:00:40.960><c> share</c><00:00:41.200><c> a</c><00:00:41.320><c> little</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+go to that I wanted to share a little
+ 
+
+00:00:41.520 --> 00:00:44.430 align:start position:0%
+go to that I wanted to share a little
+bit<00:00:41.719><c> of</c><00:00:42.079><c> my</c><00:00:42.440><c> story</c><00:00:43.039><c> of</c><00:00:43.280><c> how</c><00:00:43.600><c> I</c><00:00:43.760><c> try</c><00:00:44.039><c> to</c><00:00:44.160><c> learn</c>
+
+00:00:44.430 --> 00:00:44.440 align:start position:0%
+bit of my story of how I try to learn
+ 
+
+00:00:44.440 --> 00:00:46.189 align:start position:0%
+bit of my story of how I try to learn
+data<00:00:44.640><c> science</c><00:00:45.000><c> what</c><00:00:45.120><c> are</c><00:00:45.280><c> the</c><00:00:45.399><c> mistakes</c><00:00:46.039><c> I</c>
+
+00:00:46.189 --> 00:00:46.199 align:start position:0%
+data science what are the mistakes I
+ 
+
+00:00:46.199 --> 00:00:48.150 align:start position:0%
+data science what are the mistakes I
+made<00:00:46.680><c> and</c><00:00:46.879><c> then</c><00:00:47.079><c> hopefully</c><00:00:47.440><c> it'll</c><00:00:47.719><c> make</c><00:00:48.000><c> much</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+made and then hopefully it'll make much
+ 
+
+00:00:48.160 --> 00:00:50.310 align:start position:0%
+made and then hopefully it'll make much
+more<00:00:48.360><c> sense</c><00:00:48.600><c> to</c><00:00:48.760><c> you</c><00:00:49.199><c> when</c><00:00:49.360><c> I</c><00:00:49.480><c> share</c><00:00:49.960><c> what</c><00:00:50.160><c> I</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+more sense to you when I share what I
+ 
+
+00:00:50.320 --> 00:00:51.990 align:start position:0%
+more sense to you when I share what I
+think<00:00:50.559><c> is</c><00:00:50.719><c> the</c><00:00:50.879><c> easiest</c><00:00:51.280><c> path</c><00:00:51.440><c> to</c><00:00:51.600><c> learn</c><00:00:51.800><c> data</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+think is the easiest path to learn data
+ 
+
+00:00:52.000 --> 00:00:53.590 align:start position:0%
+think is the easiest path to learn data
+science<00:00:52.399><c> I</c><00:00:52.520><c> did</c><00:00:52.719><c> my</c><00:00:52.879><c> bachelors</c><00:00:53.440><c> in</c>
+
+00:00:53.590 --> 00:00:53.600 align:start position:0%
+science I did my bachelors in
+ 
+
+00:00:53.600 --> 00:00:55.310 align:start position:0%
+science I did my bachelors in
+telecomunication<00:00:54.399><c> engineering</c><00:00:55.079><c> Having</c>
+
+00:00:55.310 --> 00:00:55.320 align:start position:0%
+telecomunication engineering Having
+ 
+
+00:00:55.320 --> 00:00:57.910 align:start position:0%
+telecomunication engineering Having
+learned<00:00:55.840><c> almost</c><00:00:56.440><c> nothing</c><00:00:57.120><c> related</c><00:00:57.480><c> to</c><00:00:57.680><c> data</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+learned almost nothing related to data
+ 
+
+00:00:57.920 --> 00:00:59.990 align:start position:0%
+learned almost nothing related to data
+science<00:00:58.480><c> I</c><00:00:58.680><c> had</c><00:00:58.879><c> learned</c><00:00:59.280><c> a</c><00:00:59.399><c> little</c><00:00:59.559><c> bit</c><00:00:59.719><c> of</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+science I had learned a little bit of
+ 
+
+00:01:00.000 --> 00:01:02.069 align:start position:0%
+science I had learned a little bit of
+programming<00:01:00.559><c> and</c><00:01:00.719><c> based</c><00:01:01.000><c> on</c><00:01:01.280><c> that</c><00:01:01.719><c> and</c><00:01:01.960><c> a</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+programming and based on that and a
+ 
+
+00:01:02.079 --> 00:01:04.549 align:start position:0%
+programming and based on that and a
+little<00:01:02.280><c> bit</c><00:01:02.519><c> of</c><00:01:02.760><c> my</c><00:01:03.039><c> own</c><00:01:03.320><c> learning</c><00:01:04.040><c> I</c><00:01:04.159><c> started</c>
+
+00:01:04.549 --> 00:01:04.559 align:start position:0%
+little bit of my own learning I started
+ 
+
+00:01:04.559 --> 00:01:06.630 align:start position:0%
+little bit of my own learning I started
+my<00:01:04.760><c> career</c><00:01:05.159><c> as</c><00:01:05.280><c> a</c><00:01:05.439><c> software</c><00:01:05.840><c> engineer</c><00:01:06.479><c> and</c>
+
+00:01:06.630 --> 00:01:06.640 align:start position:0%
+my career as a software engineer and
+ 
+
+00:01:06.640 --> 00:01:08.590 align:start position:0%
+my career as a software engineer and
+later<00:01:06.880><c> on</c><00:01:07.119><c> when</c><00:01:07.320><c> I</c><00:01:07.479><c> wanted</c><00:01:07.759><c> to</c><00:01:07.960><c> switch</c><00:01:08.240><c> to</c><00:01:08.360><c> data</c>
+
+00:01:08.590 --> 00:01:08.600 align:start position:0%
+later on when I wanted to switch to data
+ 
+
+00:01:08.600 --> 00:01:10.590 align:start position:0%
+later on when I wanted to switch to data
+science<00:01:09.159><c> I</c><00:01:09.439><c> took</c><00:01:09.680><c> some</c><00:01:09.920><c> courses</c><00:01:10.280><c> in</c><00:01:10.439><c> the</c>
+
+00:01:10.590 --> 00:01:10.600 align:start position:0%
+science I took some courses in the
+ 
+
+00:01:10.600 --> 00:01:12.749 align:start position:0%
+science I took some courses in the
+Masters<00:01:11.200><c> related</c><00:01:11.520><c> to</c><00:01:11.680><c> data</c><00:01:11.920><c> science</c><00:01:12.320><c> and</c><00:01:12.520><c> also</c>
+
+00:01:12.749 --> 00:01:12.759 align:start position:0%
+Masters related to data science and also
+ 
+
+00:01:12.759 --> 00:01:15.670 align:start position:0%
+Masters related to data science and also
+learned<00:01:13.119><c> from</c><00:01:13.360><c> some</c><00:01:13.600><c> courses</c><00:01:14.439><c> tutorials</c><00:01:15.119><c> Etc</c>
+
+00:01:15.670 --> 00:01:15.680 align:start position:0%
+learned from some courses tutorials Etc
+ 
+
+00:01:15.680 --> 00:01:17.469 align:start position:0%
+learned from some courses tutorials Etc
+and<00:01:15.840><c> with</c><00:01:16.080><c> that</c><00:01:16.280><c> knowledge</c><00:01:16.640><c> I</c><00:01:16.799><c> was</c><00:01:17.040><c> able</c><00:01:17.280><c> to</c>
+
+00:01:17.469 --> 00:01:17.479 align:start position:0%
+and with that knowledge I was able to
+ 
+
+00:01:17.479 --> 00:01:19.950 align:start position:0%
+and with that knowledge I was able to
+get<00:01:17.960><c> my</c><00:01:18.200><c> initial</c><00:01:18.640><c> job</c><00:01:19.040><c> as</c><00:01:19.159><c> a</c><00:01:19.320><c> junior</c><00:01:19.680><c> data</c>
+
+00:01:19.950 --> 00:01:19.960 align:start position:0%
+get my initial job as a junior data
+ 
+
+00:01:19.960 --> 00:01:22.230 align:start position:0%
+get my initial job as a junior data
+scientist<00:01:20.640><c> but</c><00:01:20.880><c> I</c><00:01:21.040><c> knew</c><00:01:21.400><c> that</c><00:01:21.680><c> my</c><00:01:21.920><c> knowledge</c>
+
+00:01:22.230 --> 00:01:22.240 align:start position:0%
+scientist but I knew that my knowledge
+ 
+
+00:01:22.240 --> 00:01:24.310 align:start position:0%
+scientist but I knew that my knowledge
+of<00:01:22.400><c> data</c><00:01:22.640><c> science</c><00:01:22.960><c> it</c><00:01:23.079><c> was</c><00:01:23.360><c> very</c><00:01:23.600><c> basic</c><00:01:24.040><c> and</c><00:01:24.200><c> if</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+of data science it was very basic and if
+ 
+
+00:01:24.320 --> 00:01:26.550 align:start position:0%
+of data science it was very basic and if
+I<00:01:24.560><c> have</c><00:01:24.720><c> to</c><00:01:24.880><c> be</c><00:01:25.079><c> successful</c><00:01:25.560><c> in</c><00:01:25.680><c> this</c><00:01:25.880><c> career</c>
+
+00:01:26.550 --> 00:01:26.560 align:start position:0%
+I have to be successful in this career
+ 
+
+00:01:26.560 --> 00:01:29.030 align:start position:0%
+I have to be successful in this career
+then<00:01:26.840><c> I</c><00:01:27.000><c> have</c><00:01:27.119><c> to</c><00:01:27.280><c> learn</c><00:01:27.720><c> a</c><00:01:27.920><c> lot</c><00:01:28.159><c> more</c><00:01:28.640><c> so</c><00:01:28.840><c> with</c>
+
+00:01:29.030 --> 00:01:29.040 align:start position:0%
+then I have to learn a lot more so with
+ 
+
+00:01:29.040 --> 00:01:30.469 align:start position:0%
+then I have to learn a lot more so with
+that<00:01:29.159><c> in</c><00:01:29.280><c> mind</c><00:01:29.520><c> I</c><00:01:29.640><c> started</c><00:01:29.920><c> started</c><00:01:30.159><c> thinking</c>
+
+00:01:30.469 --> 00:01:30.479 align:start position:0%
+that in mind I started started thinking
+ 
+
+00:01:30.479 --> 00:01:32.749 align:start position:0%
+that in mind I started started thinking
+that<00:01:30.759><c> how</c><00:01:31.040><c> I</c><00:01:31.159><c> can</c><00:01:31.479><c> learn</c><00:01:32.040><c> more</c><00:01:32.280><c> of</c><00:01:32.439><c> data</c>
+
+00:01:32.749 --> 00:01:32.759 align:start position:0%
+that how I can learn more of data
+ 
+
+00:01:32.759 --> 00:01:35.069 align:start position:0%
+that how I can learn more of data
+science<00:01:33.079><c> so</c><00:01:33.240><c> that</c><00:01:33.439><c> I</c><00:01:33.640><c> become</c><00:01:34.280><c> very</c><00:01:34.640><c> good</c><00:01:34.880><c> in</c>
+
+00:01:35.069 --> 00:01:35.079 align:start position:0%
+science so that I become very good in
+ 
+
+00:01:35.079 --> 00:01:36.630 align:start position:0%
+science so that I become very good in
+this<00:01:35.200><c> field</c><00:01:35.640><c> and</c><00:01:35.759><c> the</c><00:01:35.920><c> initial</c><00:01:36.280><c> approach</c>
+
+00:01:36.630 --> 00:01:36.640 align:start position:0%
+this field and the initial approach
+ 
+
+00:01:36.640 --> 00:01:38.830 align:start position:0%
+this field and the initial approach
+which<00:01:36.840><c> I</c><00:01:37.000><c> decided</c><00:01:37.399><c> on</c><00:01:37.759><c> I</c><00:01:37.960><c> called</c><00:01:38.280><c> that</c><00:01:38.560><c> as</c>
+
+00:01:38.830 --> 00:01:38.840 align:start position:0%
+which I decided on I called that as
+ 
+
+00:01:38.840 --> 00:01:40.670 align:start position:0%
+which I decided on I called that as
+top-down<00:01:39.520><c> approach</c><00:01:39.799><c> of</c><00:01:39.920><c> learning</c><00:01:40.399><c> and</c><00:01:40.520><c> the</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+top-down approach of learning and the
+ 
+
+00:01:40.680 --> 00:01:42.789 align:start position:0%
+top-down approach of learning and the
+basic<00:01:41.000><c> idea</c><00:01:41.320><c> behind</c><00:01:41.720><c> topdown</c><00:01:42.399><c> approach</c><00:01:42.680><c> of</c>
+
+00:01:42.789 --> 00:01:42.799 align:start position:0%
+basic idea behind topdown approach of
+ 
+
+00:01:42.799 --> 00:01:44.990 align:start position:0%
+basic idea behind topdown approach of
+learning<00:01:43.280><c> is</c><00:01:43.439><c> that</c><00:01:43.680><c> you</c><00:01:43.880><c> try</c><00:01:44.079><c> to</c><00:01:44.520><c> understand</c>
+
+00:01:44.990 --> 00:01:45.000 align:start position:0%
+learning is that you try to understand
+ 
+
+00:01:45.000 --> 00:01:46.830 align:start position:0%
+learning is that you try to understand
+that<00:01:45.200><c> what</c><00:01:45.360><c> is</c><00:01:45.479><c> needed</c><00:01:45.880><c> for</c><00:01:46.040><c> most</c><00:01:46.280><c> day-to-day</c>
+
+00:01:46.830 --> 00:01:46.840 align:start position:0%
+that what is needed for most day-to-day
+ 
+
+00:01:46.840 --> 00:01:48.709 align:start position:0%
+that what is needed for most day-to-day
+task<00:01:47.320><c> and</c><00:01:47.479><c> based</c><00:01:47.759><c> on</c><00:01:47.960><c> that</c><00:01:48.159><c> I</c><00:01:48.320><c> started</c>
+
+00:01:48.709 --> 00:01:48.719 align:start position:0%
+task and based on that I started
+ 
+
+00:01:48.719 --> 00:01:50.749 align:start position:0%
+task and based on that I started
+developing<00:01:49.280><c> my</c><00:01:49.560><c> expertise</c><00:01:50.040><c> around</c><00:01:50.240><c> it</c><00:01:50.479><c> 10</c>
+
+00:01:50.749 --> 00:01:50.759 align:start position:0%
+developing my expertise around it 10
+ 
+
+00:01:50.759 --> 00:01:53.109 align:start position:0%
+developing my expertise around it 10
+years<00:01:50.960><c> ago</c><00:01:51.360><c> we</c><00:01:51.520><c> didn't</c><00:01:51.840><c> had</c><00:01:52.119><c> a</c><00:01:52.320><c> lot</c><00:01:52.520><c> of</c><00:01:52.719><c> fancy</c>
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+years ago we didn't had a lot of fancy
+ 
+
+00:01:53.119 --> 00:01:55.389 align:start position:0%
+years ago we didn't had a lot of fancy
+ml<00:01:53.439><c> tools</c><00:01:53.960><c> as</c><00:01:54.119><c> we</c><00:01:54.280><c> have</c><00:01:54.439><c> today</c><00:01:54.880><c> and</c><00:01:55.079><c> most</c><00:01:55.280><c> of</c>
+
+00:01:55.389 --> 00:01:55.399 align:start position:0%
+ml tools as we have today and most of
+ 
+
+00:01:55.399 --> 00:01:56.990 align:start position:0%
+ml tools as we have today and most of
+the<00:01:55.560><c> development</c><00:01:56.039><c> around</c><00:01:56.320><c> data</c><00:01:56.600><c> science</c><00:01:56.840><c> and</c>
+
+00:01:56.990 --> 00:01:57.000 align:start position:0%
+the development around data science and
+ 
+
+00:01:57.000 --> 00:02:00.069 align:start position:0%
+the development around data science and
+ml<00:01:57.520><c> was</c><00:01:57.719><c> done</c><00:01:58.000><c> using</c><00:01:58.560><c> pandas</c><00:01:59.280><c> and</c><00:01:59.520><c> PSY</c><00:01:59.960><c> it</c>
+
+00:02:00.069 --> 00:02:00.079 align:start position:0%
+ml was done using pandas and PSY it
+ 
+
+00:02:00.079 --> 00:02:02.469 align:start position:0%
+ml was done using pandas and PSY it
+learn<00:02:00.600><c> so</c><00:02:00.799><c> I</c><00:02:00.920><c> thought</c><00:02:01.320><c> if</c><00:02:01.520><c> I</c><00:02:01.640><c> could</c><00:02:01.920><c> become</c>
+
+00:02:02.469 --> 00:02:02.479 align:start position:0%
+learn so I thought if I could become
+ 
+
+00:02:02.479 --> 00:02:05.029 align:start position:0%
+learn so I thought if I could become
+really<00:02:02.840><c> good</c><00:02:03.360><c> using</c><00:02:03.799><c> these</c><00:02:04.000><c> two</c><00:02:04.240><c> libraries</c>
+
+00:02:05.029 --> 00:02:05.039 align:start position:0%
+really good using these two libraries
+ 
+
+00:02:05.039 --> 00:02:06.789 align:start position:0%
+really good using these two libraries
+then<00:02:05.240><c> I</c><00:02:05.320><c> can</c><00:02:05.560><c> consider</c><00:02:06.000><c> myself</c><00:02:06.399><c> a</c><00:02:06.600><c> very</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+then I can consider myself a very
+ 
+
+00:02:06.799 --> 00:02:08.630 align:start position:0%
+then I can consider myself a very
+successful<00:02:07.320><c> and</c><00:02:07.479><c> a</c><00:02:07.600><c> very</c><00:02:07.880><c> knowledgeable</c><00:02:08.399><c> data</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+successful and a very knowledgeable data
+ 
+
+00:02:08.640 --> 00:02:11.229 align:start position:0%
+successful and a very knowledgeable data
+scientist<00:02:09.119><c> so</c><00:02:09.280><c> with</c><00:02:09.520><c> that</c><00:02:09.679><c> in</c><00:02:09.840><c> mind</c><00:02:10.280><c> I</c><00:02:10.440><c> went</c><00:02:10.720><c> to</c>
+
+00:02:11.229 --> 00:02:11.239 align:start position:0%
+scientist so with that in mind I went to
+ 
+
+00:02:11.239 --> 00:02:13.750 align:start position:0%
+scientist so with that in mind I went to
+Panda's<00:02:11.840><c> website</c><00:02:12.480><c> and</c><00:02:12.680><c> also</c><00:02:13.000><c> pych</c><00:02:13.400><c> learn</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+Panda's website and also pych learn
+ 
+
+00:02:13.760 --> 00:02:16.390 align:start position:0%
+Panda's website and also pych learn
+website<00:02:14.360><c> and</c><00:02:14.640><c> I</c><00:02:14.879><c> printed</c><00:02:15.599><c> all</c><00:02:15.959><c> of</c><00:02:16.120><c> their</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+website and I printed all of their
+ 
+
+00:02:16.400 --> 00:02:18.910 align:start position:0%
+website and I printed all of their
+documentation<00:02:17.360><c> it</c><00:02:17.519><c> became</c><00:02:17.959><c> these</c><00:02:18.280><c> Hefty</c>
+
+00:02:18.910 --> 00:02:18.920 align:start position:0%
+documentation it became these Hefty
+ 
+
+00:02:18.920 --> 00:02:21.430 align:start position:0%
+documentation it became these Hefty
+almost<00:02:19.239><c> a</c><00:02:19.440><c> big</c><00:02:19.680><c> book</c><00:02:20.000><c> size</c><00:02:20.239><c> prints</c><00:02:20.879><c> and</c><00:02:21.080><c> then</c><00:02:21.319><c> I</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+almost a big book size prints and then I
+ 
+
+00:02:21.440 --> 00:02:23.229 align:start position:0%
+almost a big book size prints and then I
+started<00:02:21.920><c> going</c><00:02:22.160><c> through</c><00:02:22.440><c> them</c><00:02:22.760><c> trying</c><00:02:23.000><c> to</c>
+
+00:02:23.229 --> 00:02:23.239 align:start position:0%
+started going through them trying to
+ 
+
+00:02:23.239 --> 00:02:25.430 align:start position:0%
+started going through them trying to
+make<00:02:23.440><c> a</c><00:02:23.560><c> sense</c><00:02:23.760><c> of</c><00:02:23.959><c> it</c><00:02:24.280><c> for</c><00:02:24.560><c> pandas</c><00:02:25.080><c> it</c><00:02:25.239><c> did</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+make a sense of it for pandas it did
+ 
+
+00:02:25.440 --> 00:02:28.030 align:start position:0%
+make a sense of it for pandas it did
+work<00:02:25.760><c> because</c><00:02:26.040><c> pandas</c><00:02:26.560><c> is</c><00:02:26.840><c> sort</c><00:02:27.080><c> of</c><00:02:27.239><c> like</c><00:02:27.400><c> SQL</c>
+
+00:02:28.030 --> 00:02:28.040 align:start position:0%
+work because pandas is sort of like SQL
+ 
+
+00:02:28.040 --> 00:02:29.910 align:start position:0%
+work because pandas is sort of like SQL
+and<00:02:28.280><c> most</c><00:02:28.519><c> of</c><00:02:28.680><c> the</c><00:02:28.920><c> commands</c><00:02:29.560><c> that</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+and most of the commands that
+ 
+
+00:02:29.920 --> 00:02:31.869 align:start position:0%
+and most of the commands that
+documentation<00:02:30.560><c> had</c><00:02:30.920><c> were</c><00:02:31.120><c> mainly</c><00:02:31.440><c> around</c><00:02:31.760><c> how</c>
+
+00:02:31.869 --> 00:02:31.879 align:start position:0%
+documentation had were mainly around how
+ 
+
+00:02:31.879 --> 00:02:34.070 align:start position:0%
+documentation had were mainly around how
+you<00:02:32.000><c> can</c><00:02:32.200><c> cury</c><00:02:32.599><c> and</c><00:02:32.800><c> transform</c><00:02:33.280><c> the</c><00:02:33.480><c> data</c><00:02:33.920><c> but</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+you can cury and transform the data but
+ 
+
+00:02:34.080 --> 00:02:36.030 align:start position:0%
+you can cury and transform the data but
+when<00:02:34.239><c> I</c><00:02:34.360><c> started</c><00:02:34.720><c> learning</c><00:02:35.200><c> psychic</c><00:02:35.640><c> learn</c>
+
+00:02:36.030 --> 00:02:36.040 align:start position:0%
+when I started learning psychic learn
+ 
+
+00:02:36.040 --> 00:02:38.550 align:start position:0%
+when I started learning psychic learn
+using<00:02:36.400><c> this</c><00:02:36.599><c> method</c><00:02:37.080><c> I</c><00:02:37.280><c> very</c><00:02:37.480><c> soon</c><00:02:37.879><c> realized</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+using this method I very soon realized
+ 
+
+00:02:38.560 --> 00:02:40.589 align:start position:0%
+using this method I very soon realized
+this<00:02:38.800><c> approach</c><00:02:39.200><c> won't</c><00:02:39.599><c> work</c><00:02:40.080><c> and</c><00:02:40.200><c> the</c><00:02:40.319><c> main</c>
+
+00:02:40.589 --> 00:02:40.599 align:start position:0%
+this approach won't work and the main
+ 
+
+00:02:40.599 --> 00:02:42.750 align:start position:0%
+this approach won't work and the main
+reason<00:02:41.080><c> was</c><00:02:41.440><c> that</c><00:02:41.760><c> when</c><00:02:41.920><c> I</c><00:02:42.080><c> started</c><00:02:42.480><c> going</c>
+
+00:02:42.750 --> 00:02:42.760 align:start position:0%
+reason was that when I started going
+ 
+
+00:02:42.760 --> 00:02:44.910 align:start position:0%
+reason was that when I started going
+through<00:02:43.280><c> the</c><00:02:43.519><c> pages</c><00:02:43.959><c> of</c><00:02:44.159><c> psychic</c><00:02:44.640><c> learn</c>
+
+00:02:44.910 --> 00:02:44.920 align:start position:0%
+through the pages of psychic learn
+ 
+
+00:02:44.920 --> 00:02:47.670 align:start position:0%
+through the pages of psychic learn
+documentation<00:02:45.920><c> they</c><00:02:46.080><c> were</c><00:02:46.280><c> mentioning</c><00:02:47.200><c> a</c><00:02:47.440><c> lot</c>
+
+00:02:47.670 --> 00:02:47.680 align:start position:0%
+documentation they were mentioning a lot
+ 
+
+00:02:47.680 --> 00:02:50.790 align:start position:0%
+documentation they were mentioning a lot
+of<00:02:48.200><c> mathematics</c><00:02:49.200><c> and</c><00:02:49.440><c> the</c><00:02:49.640><c> foundations</c><00:02:50.560><c> of</c>
+
+00:02:50.790 --> 00:02:50.800 align:start position:0%
+of mathematics and the foundations of
+ 
+
+00:02:50.800 --> 00:02:53.229 align:start position:0%
+of mathematics and the foundations of
+machine<00:02:51.120><c> learning</c><00:02:51.800><c> which</c><00:02:52.080><c> I</c><00:02:52.280><c> did</c><00:02:52.519><c> not</c><00:02:52.840><c> had</c><00:02:53.120><c> a</c>
+
+00:02:53.229 --> 00:02:53.239 align:start position:0%
+machine learning which I did not had a
+ 
+
+00:02:53.239 --> 00:02:55.190 align:start position:0%
+machine learning which I did not had a
+lot<00:02:53.400><c> of</c><00:02:53.519><c> knowledge</c><00:02:53.879><c> around</c><00:02:54.319><c> so</c><00:02:54.560><c> with</c><00:02:54.840><c> that</c>
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+lot of knowledge around so with that
+ 
+
+00:02:55.200 --> 00:02:57.550 align:start position:0%
+lot of knowledge around so with that
+Foundation<00:02:55.760><c> missing</c><00:02:56.519><c> I</c><00:02:56.680><c> realized</c><00:02:57.159><c> that</c><00:02:57.360><c> I</c>
+
+00:02:57.550 --> 00:02:57.560 align:start position:0%
+Foundation missing I realized that I
+ 
+
+00:02:57.560 --> 00:02:59.830 align:start position:0%
+Foundation missing I realized that I
+just<00:02:57.800><c> cannot</c><00:02:58.280><c> go</c><00:02:58.519><c> through</c><00:02:58.959><c> psyit</c><00:02:59.400><c> learn</c>
+
+00:02:59.830 --> 00:02:59.840 align:start position:0%
+just cannot go through psyit learn
+ 
+
+00:02:59.840 --> 00:03:01.910 align:start position:0%
+just cannot go through psyit learn
+documentation<00:03:00.599><c> and</c><00:03:00.720><c> fully</c><00:03:01.360><c> understand</c><00:03:01.519><c> it</c><00:03:01.760><c> so</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+documentation and fully understand it so
+ 
+
+00:03:01.920 --> 00:03:04.030 align:start position:0%
+documentation and fully understand it so
+my<00:03:02.080><c> initial</c><00:03:02.480><c> thought</c><00:03:02.680><c> of</c><00:03:02.840><c> starting</c><00:03:03.239><c> from</c><00:03:03.560><c> top</c>
+
+00:03:04.030 --> 00:03:04.040 align:start position:0%
+my initial thought of starting from top
+ 
+
+00:03:04.040 --> 00:03:06.390 align:start position:0%
+my initial thought of starting from top
+and<00:03:04.239><c> going</c><00:03:04.599><c> towards</c><00:03:05.040><c> bottom</c><00:03:05.680><c> didn't</c><00:03:06.080><c> actually</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+and going towards bottom didn't actually
+ 
+
+00:03:06.400 --> 00:03:09.030 align:start position:0%
+and going towards bottom didn't actually
+work<00:03:06.840><c> then</c><00:03:07.120><c> I</c><00:03:07.280><c> thought</c><00:03:07.680><c> okay</c><00:03:08.120><c> if</c><00:03:08.480><c> the</c><00:03:08.720><c> top-</c>
+
+00:03:09.030 --> 00:03:09.040 align:start position:0%
+work then I thought okay if the top-
+ 
+
+00:03:09.040 --> 00:03:11.110 align:start position:0%
+work then I thought okay if the top-
+down<00:03:09.280><c> approach</c><00:03:09.560><c> is</c><00:03:09.720><c> not</c><00:03:09.959><c> working</c><00:03:10.560><c> then</c><00:03:10.760><c> let</c><00:03:10.920><c> me</c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+down approach is not working then let me
+ 
+
+00:03:11.120 --> 00:03:13.990 align:start position:0%
+down approach is not working then let me
+try<00:03:11.440><c> the</c><00:03:11.720><c> bottom</c><00:03:12.040><c> up</c><00:03:12.319><c> approach</c><00:03:12.840><c> so</c><00:03:13.040><c> for</c><00:03:13.400><c> that</c><00:03:13.840><c> I</c>
+
+00:03:13.990 --> 00:03:14.000 align:start position:0%
+try the bottom up approach so for that I
+ 
+
+00:03:14.000 --> 00:03:16.229 align:start position:0%
+try the bottom up approach so for that I
+started<00:03:14.640><c> going</c><00:03:15.000><c> towards</c><00:03:15.599><c> what</c><00:03:15.840><c> is</c><00:03:16.000><c> the</c>
+
+00:03:16.229 --> 00:03:16.239 align:start position:0%
+started going towards what is the
+ 
+
+00:03:16.239 --> 00:03:18.589 align:start position:0%
+started going towards what is the
+foundations<00:03:17.200><c> of</c><00:03:17.360><c> machine</c><00:03:17.680><c> learning</c><00:03:18.280><c> and</c><00:03:18.440><c> I</c>
+
+00:03:18.589 --> 00:03:18.599 align:start position:0%
+foundations of machine learning and I
+ 
+
+00:03:18.599 --> 00:03:20.949 align:start position:0%
+foundations of machine learning and I
+started<00:03:18.959><c> going</c><00:03:19.239><c> through</c><00:03:19.599><c> statistics</c><00:03:20.319><c> books</c>
+
+00:03:20.949 --> 00:03:20.959 align:start position:0%
+started going through statistics books
+ 
+
+00:03:20.959 --> 00:03:23.869 align:start position:0%
+started going through statistics books
+linear<00:03:21.440><c> algebra</c><00:03:22.000><c> books</c><00:03:22.440><c> calculus</c><00:03:22.959><c> books</c><00:03:23.480><c> and</c>
+
+00:03:23.869 --> 00:03:23.879 align:start position:0%
+linear algebra books calculus books and
+ 
+
+00:03:23.879 --> 00:03:27.070 align:start position:0%
+linear algebra books calculus books and
+having<00:03:24.200><c> spent</c><00:03:24.959><c> 3</c><00:03:25.280><c> 4</c><00:03:25.599><c> months</c><00:03:26.040><c> into</c><00:03:26.400><c> it</c><00:03:26.680><c> learning</c>
+
+00:03:27.070 --> 00:03:27.080 align:start position:0%
+having spent 3 4 months into it learning
+ 
+
+00:03:27.080 --> 00:03:29.350 align:start position:0%
+having spent 3 4 months into it learning
+a<00:03:27.239><c> lot</c><00:03:27.400><c> of</c><00:03:27.599><c> Concepts</c><00:03:28.159><c> around</c><00:03:28.599><c> calculus</c><00:03:29.200><c> and</c>
+
+00:03:29.350 --> 00:03:29.360 align:start position:0%
+a lot of Concepts around calculus and
+ 
+
+00:03:29.360 --> 00:03:31.429 align:start position:0%
+a lot of Concepts around calculus and
+linear<00:03:29.840><c> algebra</c><00:03:30.480><c> and</c><00:03:30.720><c> statistics</c><00:03:31.200><c> and</c>
+
+00:03:31.429 --> 00:03:31.439 align:start position:0%
+linear algebra and statistics and
+ 
+
+00:03:31.439 --> 00:03:33.550 align:start position:0%
+linear algebra and statistics and
+probability<00:03:32.239><c> I</c><00:03:32.360><c> realized</c><00:03:32.840><c> I</c><00:03:32.959><c> was</c><00:03:33.159><c> trying</c><00:03:33.400><c> to</c>
+
+00:03:33.550 --> 00:03:33.560 align:start position:0%
+probability I realized I was trying to
+ 
+
+00:03:33.560 --> 00:03:36.110 align:start position:0%
+probability I realized I was trying to
+do<00:03:33.840><c> some</c><00:03:34.159><c> very</c><00:03:34.480><c> complex</c><00:03:35.120><c> integration</c>
+
+00:03:36.110 --> 00:03:36.120 align:start position:0%
+do some very complex integration
+ 
+
+00:03:36.120 --> 00:03:39.149 align:start position:0%
+do some very complex integration
+calculation<00:03:37.080><c> and</c><00:03:37.319><c> how</c><00:03:37.519><c> does</c><00:03:38.080><c> that</c><00:03:38.480><c> help</c><00:03:38.920><c> in</c>
+
+00:03:39.149 --> 00:03:39.159 align:start position:0%
+calculation and how does that help in
+ 
+
+00:03:39.159 --> 00:03:41.229 align:start position:0%
+calculation and how does that help in
+any<00:03:39.439><c> way</c><00:03:39.879><c> me</c><00:03:40.159><c> becoming</c><00:03:40.560><c> a</c><00:03:40.720><c> better</c><00:03:40.959><c> data</c>
+
+00:03:41.229 --> 00:03:41.239 align:start position:0%
+any way me becoming a better data
+ 
+
+00:03:41.239 --> 00:03:43.509 align:start position:0%
+any way me becoming a better data
+scientist<00:03:41.920><c> because</c><00:03:42.319><c> those</c><00:03:42.760><c> complex</c>
+
+00:03:43.509 --> 00:03:43.519 align:start position:0%
+scientist because those complex
+ 
+
+00:03:43.519 --> 00:03:46.589 align:start position:0%
+scientist because those complex
+calculations<00:03:44.519><c> had</c><00:03:44.760><c> no</c><00:03:45.080><c> relationship</c><00:03:46.000><c> in</c><00:03:46.319><c> what</c>
+
+00:03:46.589 --> 00:03:46.599 align:start position:0%
+calculations had no relationship in what
+ 
+
+00:03:46.599 --> 00:03:49.309 align:start position:0%
+calculations had no relationship in what
+I<00:03:46.760><c> was</c><00:03:46.959><c> trying</c><00:03:47.239><c> to</c><00:03:47.400><c> do</c><00:03:47.840><c> on</c><00:03:48.000><c> a</c><00:03:48.159><c> day-to-day</c><00:03:48.760><c> basis</c>
+
+00:03:49.309 --> 00:03:49.319 align:start position:0%
+I was trying to do on a day-to-day basis
+ 
+
+00:03:49.319 --> 00:03:51.429 align:start position:0%
+I was trying to do on a day-to-day basis
+on<00:03:49.480><c> my</c><00:03:49.640><c> data</c><00:03:49.879><c> science</c><00:03:50.159><c> job</c><00:03:50.480><c> so</c><00:03:50.840><c> then</c><00:03:51.200><c> I</c>
+
+00:03:51.429 --> 00:03:51.439 align:start position:0%
+on my data science job so then I
+ 
+
+00:03:51.439 --> 00:03:53.589 align:start position:0%
+on my data science job so then I
+abandoned<00:03:52.000><c> that</c><00:03:52.159><c> approach</c><00:03:52.519><c> as</c><00:03:52.680><c> well</c><00:03:53.200><c> and</c>
+
+00:03:53.589 --> 00:03:53.599 align:start position:0%
+abandoned that approach as well and
+ 
+
+00:03:53.599 --> 00:03:55.949 align:start position:0%
+abandoned that approach as well and
+realize<00:03:54.239><c> that</c><00:03:54.480><c> this</c><00:03:54.760><c> bottom</c><00:03:55.159><c> up</c><00:03:55.439><c> approach</c>
+
+00:03:55.949 --> 00:03:55.959 align:start position:0%
+realize that this bottom up approach
+ 
+
+00:03:55.959 --> 00:03:59.190 align:start position:0%
+realize that this bottom up approach
+unless<00:03:56.519><c> you</c><00:03:57.120><c> have</c><00:03:57.439><c> a</c><00:03:57.720><c> very</c><00:03:58.159><c> clearly</c><00:03:58.680><c> defined</c>
+
+00:03:59.190 --> 00:03:59.200 align:start position:0%
+unless you have a very clearly defined
+ 
+
+00:03:59.200 --> 00:04:02.069 align:start position:0%
+unless you have a very clearly defined
+path<00:03:59.799><c> on</c><00:04:00.280><c> how</c><00:04:00.480><c> much</c><00:04:00.760><c> deep</c><00:04:01.079><c> you</c><00:04:01.200><c> want</c><00:04:01.319><c> to</c><00:04:01.560><c> go</c>
+
+00:04:02.069 --> 00:04:02.079 align:start position:0%
+path on how much deep you want to go
+ 
+
+00:04:02.079 --> 00:04:04.750 align:start position:0%
+path on how much deep you want to go
+also<00:04:02.400><c> is</c><00:04:02.599><c> not</c><00:04:02.799><c> a</c><00:04:02.959><c> very</c><00:04:03.159><c> feasible</c><00:04:03.640><c> bun</c><00:04:04.239><c> because</c>
+
+00:04:04.750 --> 00:04:04.760 align:start position:0%
+also is not a very feasible bun because
+ 
+
+00:04:04.760 --> 00:04:07.270 align:start position:0%
+also is not a very feasible bun because
+there<00:04:04.959><c> is</c><00:04:05.200><c> a</c><00:04:05.319><c> lot</c><00:04:05.519><c> of</c><00:04:05.760><c> dependencies</c><00:04:06.760><c> between</c>
+
+00:04:07.270 --> 00:04:07.280 align:start position:0%
+there is a lot of dependencies between
+ 
+
+00:04:07.280 --> 00:04:09.069 align:start position:0%
+there is a lot of dependencies between
+probability<00:04:07.840><c> and</c><00:04:08.040><c> statistics</c><00:04:08.640><c> and</c><00:04:08.799><c> machine</c>
+
+00:04:09.069 --> 00:04:09.079 align:start position:0%
+probability and statistics and machine
+ 
+
+00:04:09.079 --> 00:04:11.750 align:start position:0%
+probability and statistics and machine
+learning<00:04:09.599><c> and</c><00:04:09.760><c> linear</c><00:04:10.120><c> algebra</c><00:04:10.680><c> Etc</c><00:04:11.360><c> and</c><00:04:11.599><c> when</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+learning and linear algebra Etc and when
+ 
+
+00:04:11.760 --> 00:04:14.149 align:start position:0%
+learning and linear algebra Etc and when
+you<00:04:11.959><c> try</c><00:04:12.200><c> to</c><00:04:12.360><c> learn</c><00:04:12.799><c> everything</c><00:04:13.480><c> it</c><00:04:13.640><c> becomes</c><00:04:14.000><c> a</c>
+
+00:04:14.149 --> 00:04:14.159 align:start position:0%
+you try to learn everything it becomes a
+ 
+
+00:04:14.159 --> 00:04:16.550 align:start position:0%
+you try to learn everything it becomes a
+never-ending<00:04:14.799><c> project</c><00:04:15.319><c> so</c><00:04:15.519><c> having</c><00:04:15.840><c> failed</c><00:04:16.280><c> at</c>
+
+00:04:16.550 --> 00:04:16.560 align:start position:0%
+never-ending project so having failed at
+ 
+
+00:04:16.560 --> 00:04:18.789 align:start position:0%
+never-ending project so having failed at
+both<00:04:16.919><c> the</c><00:04:17.120><c> top-</c><00:04:17.440><c> down</c><00:04:17.680><c> approach</c><00:04:18.440><c> and</c><00:04:18.639><c> the</c>
+
+00:04:18.789 --> 00:04:18.799 align:start position:0%
+both the top- down approach and the
+ 
+
+00:04:18.799 --> 00:04:20.949 align:start position:0%
+both the top- down approach and the
+bottom<00:04:19.120><c> up</c><00:04:19.359><c> approach</c><00:04:19.880><c> then</c><00:04:20.040><c> I</c><00:04:20.199><c> spoke</c><00:04:20.519><c> with</c><00:04:20.840><c> a</c>
+
+00:04:20.949 --> 00:04:20.959 align:start position:0%
+bottom up approach then I spoke with a
+ 
+
+00:04:20.959 --> 00:04:23.390 align:start position:0%
+bottom up approach then I spoke with a
+lot<00:04:21.120><c> of</c><00:04:21.280><c> senior</c><00:04:21.680><c> mentors</c><00:04:22.320><c> and</c><00:04:22.440><c> try</c><00:04:22.720><c> to</c><00:04:22.880><c> see</c>
+
+00:04:23.390 --> 00:04:23.400 align:start position:0%
+lot of senior mentors and try to see
+ 
+
+00:04:23.400 --> 00:04:25.670 align:start position:0%
+lot of senior mentors and try to see
+what<00:04:23.560><c> is</c><00:04:23.919><c> the</c><00:04:24.080><c> most</c><00:04:24.479><c> optimal</c><00:04:24.960><c> way</c><00:04:25.240><c> to</c><00:04:25.360><c> learn</c>
+
+00:04:25.670 --> 00:04:25.680 align:start position:0%
+what is the most optimal way to learn
+ 
+
+00:04:25.680 --> 00:04:27.310 align:start position:0%
+what is the most optimal way to learn
+data<00:04:25.960><c> science</c><00:04:26.479><c> and</c><00:04:26.639><c> this</c><00:04:26.720><c> is</c><00:04:26.880><c> the</c><00:04:27.000><c> approach</c>
+
+00:04:27.310 --> 00:04:27.320 align:start position:0%
+data science and this is the approach
+ 
+
+00:04:27.320 --> 00:04:28.629 align:start position:0%
+data science and this is the approach
+I'm<00:04:27.479><c> going</c><00:04:27.639><c> to</c><00:04:27.759><c> share</c><00:04:28.040><c> with</c><00:04:28.160><c> you</c><00:04:28.360><c> in</c><00:04:28.479><c> this</c>
+
+00:04:28.629 --> 00:04:28.639 align:start position:0%
+I'm going to share with you in this
+ 
+
+00:04:28.639 --> 00:04:30.990 align:start position:0%
+I'm going to share with you in this
+video<00:04:29.080><c> the</c><00:04:29.199><c> basic</c><00:04:29.720><c> premise</c><00:04:30.080><c> of</c><00:04:30.280><c> this</c><00:04:30.479><c> approach</c>
+
+00:04:30.990 --> 00:04:31.000 align:start position:0%
+video the basic premise of this approach
+ 
+
+00:04:31.000 --> 00:04:33.469 align:start position:0%
+video the basic premise of this approach
+is<00:04:31.560><c> similar</c><00:04:31.960><c> to</c><00:04:32.120><c> the</c><00:04:32.280><c> top</c><00:04:32.560><c> down</c><00:04:32.840><c> method</c><00:04:33.360><c> which</c>
+
+00:04:33.469 --> 00:04:33.479 align:start position:0%
+is similar to the top down method which
+ 
+
+00:04:33.479 --> 00:04:35.710 align:start position:0%
+is similar to the top down method which
+is<00:04:33.759><c> that</c><00:04:34.080><c> you</c><00:04:34.280><c> start</c><00:04:34.639><c> with</c><00:04:34.800><c> the</c><00:04:34.919><c> end</c><00:04:35.199><c> in</c><00:04:35.360><c> mind</c>
+
+00:04:35.710 --> 00:04:35.720 align:start position:0%
+is that you start with the end in mind
+ 
+
+00:04:35.720 --> 00:04:38.590 align:start position:0%
+is that you start with the end in mind
+and<00:04:35.840><c> and</c><00:04:36.039><c> we</c><00:04:36.199><c> lay</c><00:04:36.400><c> out</c><00:04:36.880><c> what</c><00:04:37.039><c> is</c><00:04:37.160><c> needed</c><00:04:37.680><c> to</c><00:04:38.039><c> a</c>
+
+00:04:38.590 --> 00:04:38.600 align:start position:0%
+and and we lay out what is needed to a
+ 
+
+00:04:38.600 --> 00:04:40.710 align:start position:0%
+and and we lay out what is needed to a
+have<00:04:38.800><c> enough</c><00:04:39.080><c> knowledge</c><00:04:39.680><c> that</c><00:04:39.840><c> you</c><00:04:40.000><c> can</c><00:04:40.280><c> crack</c>
+
+00:04:40.710 --> 00:04:40.720 align:start position:0%
+have enough knowledge that you can crack
+ 
+
+00:04:40.720 --> 00:04:43.350 align:start position:0%
+have enough knowledge that you can crack
+most<00:04:41.080><c> data</c><00:04:41.320><c> science</c><00:04:41.600><c> interviews</c><00:04:42.320><c> and</c><00:04:42.520><c> B</c><00:04:43.120><c> have</c>
+
+00:04:43.350 --> 00:04:43.360 align:start position:0%
+most data science interviews and B have
+ 
+
+00:04:43.360 --> 00:04:45.510 align:start position:0%
+most data science interviews and B have
+enough<00:04:43.639><c> knowledge</c><00:04:44.160><c> that</c><00:04:44.320><c> you</c><00:04:44.479><c> can</c><00:04:44.759><c> succeed</c><00:04:45.360><c> in</c>
+
+00:04:45.510 --> 00:04:45.520 align:start position:0%
+enough knowledge that you can succeed in
+ 
+
+00:04:45.520 --> 00:04:47.670 align:start position:0%
+enough knowledge that you can succeed in
+your<00:04:45.880><c> job</c><00:04:46.360><c> as</c><00:04:46.479><c> a</c><00:04:46.680><c> data</c><00:04:46.919><c> scientist</c><00:04:47.360><c> once</c><00:04:47.560><c> you</c>
+
+00:04:47.670 --> 00:04:47.680 align:start position:0%
+your job as a data scientist once you
+ 
+
+00:04:47.680 --> 00:04:49.189 align:start position:0%
+your job as a data scientist once you
+crack<00:04:47.960><c> the</c><00:04:48.080><c> interviews</c><00:04:48.560><c> so</c><00:04:48.720><c> coming</c><00:04:48.919><c> to</c><00:04:49.039><c> the</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+crack the interviews so coming to the
+ 
+
+00:04:49.199 --> 00:04:50.710 align:start position:0%
+crack the interviews so coming to the
+first<00:04:49.400><c> one</c><00:04:49.759><c> how</c><00:04:49.919><c> can</c><00:04:50.080><c> you</c><00:04:50.280><c> have</c><00:04:50.479><c> enough</c>
+
+00:04:50.710 --> 00:04:50.720 align:start position:0%
+first one how can you have enough
+ 
+
+00:04:50.720 --> 00:04:52.629 align:start position:0%
+first one how can you have enough
+knowledge<00:04:51.199><c> that</c><00:04:51.360><c> you</c><00:04:51.479><c> can</c><00:04:51.720><c> crack</c><00:04:52.120><c> most</c><00:04:52.360><c> of</c><00:04:52.479><c> the</c>
+
+00:04:52.629 --> 00:04:52.639 align:start position:0%
+knowledge that you can crack most of the
+ 
+
+00:04:52.639 --> 00:04:55.270 align:start position:0%
+knowledge that you can crack most of the
+interviews<00:04:53.320><c> if</c><00:04:53.440><c> you</c><00:04:53.560><c> look</c><00:04:53.800><c> closely</c><00:04:54.440><c> at</c><00:04:55.000><c> most</c>
+
+00:04:55.270 --> 00:04:55.280 align:start position:0%
+interviews if you look closely at most
+ 
+
+00:04:55.280 --> 00:04:57.590 align:start position:0%
+interviews if you look closely at most
+of<00:04:55.400><c> the</c><00:04:55.560><c> data</c><00:04:55.759><c> science</c><00:04:56.039><c> interviews</c><00:04:56.880><c> they</c><00:04:57.080><c> are</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+of the data science interviews they are
+ 
+
+00:04:57.600 --> 00:04:59.710 align:start position:0%
+of the data science interviews they are
+around<00:04:58.199><c> basic</c><00:04:58.479><c> knowledge</c><00:04:58.759><c> of</c><00:04:58.880><c> programming</c>
+
+00:04:59.710 --> 00:04:59.720 align:start position:0%
+around basic knowledge of programming
+ 
+
+00:04:59.720 --> 00:05:02.070 align:start position:0%
+around basic knowledge of programming
+basic<00:04:59.960><c> knowledge</c><00:05:00.320><c> of</c><00:05:00.479><c> SQL</c><00:05:01.160><c> you</c><00:05:01.280><c> should</c><00:05:01.600><c> have</c><00:05:01.919><c> a</c>
+
+00:05:02.070 --> 00:05:02.080 align:start position:0%
+basic knowledge of SQL you should have a
+ 
+
+00:05:02.080 --> 00:05:04.510 align:start position:0%
+basic knowledge of SQL you should have a
+fundamental<00:05:03.000><c> understanding</c><00:05:03.360><c> of</c><00:05:03.759><c> probability</c>
+
+00:05:04.510 --> 00:05:04.520 align:start position:0%
+fundamental understanding of probability
+ 
+
+00:05:04.520 --> 00:05:07.070 align:start position:0%
+fundamental understanding of probability
+and<00:05:04.800><c> statistics</c><00:05:05.680><c> and</c><00:05:05.919><c> you</c><00:05:06.080><c> should</c><00:05:06.440><c> have</c><00:05:06.800><c> an</c>
+
+00:05:07.070 --> 00:05:07.080 align:start position:0%
+and statistics and you should have an
+ 
+
+00:05:07.080 --> 00:05:10.550 align:start position:0%
+and statistics and you should have an
+intuitive<00:05:08.080><c> understanding</c><00:05:08.520><c> of</c><00:05:08.840><c> 10</c><00:05:09.120><c> to</c><00:05:09.360><c> 15</c><00:05:10.160><c> most</c>
+
+00:05:10.550 --> 00:05:10.560 align:start position:0%
+intuitive understanding of 10 to 15 most
+ 
+
+00:05:10.560 --> 00:05:12.390 align:start position:0%
+intuitive understanding of 10 to 15 most
+frequently<00:05:11.199><c> used</c><00:05:11.759><c> machine</c><00:05:12.039><c> learning</c>
+
+00:05:12.390 --> 00:05:12.400 align:start position:0%
+frequently used machine learning
+ 
+
+00:05:12.400 --> 00:05:14.629 align:start position:0%
+frequently used machine learning
+algorithms<00:05:13.120><c> like</c><00:05:13.400><c> decision</c><00:05:13.840><c> trees</c><00:05:14.280><c> linear</c>
+
+00:05:14.629 --> 00:05:14.639 align:start position:0%
+algorithms like decision trees linear
+ 
+
+00:05:14.639 --> 00:05:16.909 align:start position:0%
+algorithms like decision trees linear
+regression<00:05:15.120><c> Etc</c><00:05:15.759><c> and</c><00:05:15.919><c> nowadays</c><00:05:16.639><c> since</c>
+
+00:05:16.909 --> 00:05:16.919 align:start position:0%
+regression Etc and nowadays since
+ 
+
+00:05:16.919 --> 00:05:19.230 align:start position:0%
+regression Etc and nowadays since
+companies<00:05:17.240><c> are</c><00:05:17.479><c> asking</c><00:05:17.800><c> for</c><00:05:18.039><c> Gen</c><00:05:18.800><c> you</c><00:05:18.919><c> should</c>
+
+00:05:19.230 --> 00:05:19.240 align:start position:0%
+companies are asking for Gen you should
+ 
+
+00:05:19.240 --> 00:05:20.870 align:start position:0%
+companies are asking for Gen you should
+have<00:05:19.440><c> some</c><00:05:19.639><c> basic</c><00:05:20.240><c> understanding</c><00:05:20.520><c> around</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+have some basic understanding around
+ 
+
+00:05:20.880 --> 00:05:22.830 align:start position:0%
+have some basic understanding around
+prompt<00:05:21.240><c> engineering</c><00:05:22.039><c> what</c><00:05:22.160><c> is</c><00:05:22.319><c> the</c><00:05:22.520><c> basic</c>
+
+00:05:22.830 --> 00:05:22.840 align:start position:0%
+prompt engineering what is the basic
+ 
+
+00:05:22.840 --> 00:05:25.430 align:start position:0%
+prompt engineering what is the basic
+mechanism<00:05:23.360><c> around</c><00:05:23.759><c> Transformers</c><00:05:24.759><c> attention</c>
+
+00:05:25.430 --> 00:05:25.440 align:start position:0%
+mechanism around Transformers attention
+ 
+
+00:05:25.440 --> 00:05:27.870 align:start position:0%
+mechanism around Transformers attention
+mechanism<00:05:26.000><c> Etc</c><00:05:26.680><c> and</c><00:05:26.919><c> some</c><00:05:27.520><c> understanding</c>
+
+00:05:27.870 --> 00:05:27.880 align:start position:0%
+mechanism Etc and some understanding
+ 
+
+00:05:27.880 --> 00:05:30.070 align:start position:0%
+mechanism Etc and some understanding
+about<00:05:28.240><c> the</c><00:05:28.440><c> embeddings</c><00:05:29.160><c> of</c><00:05:29.360><c> these</c><00:05:29.800><c> large</c>
+
+00:05:30.070 --> 00:05:30.080 align:start position:0%
+about the embeddings of these large
+ 
+
+00:05:30.080 --> 00:05:32.270 align:start position:0%
+about the embeddings of these large
+language<00:05:30.440><c> models</c><00:05:31.080><c> and</c><00:05:31.199><c> the</c><00:05:31.360><c> good</c><00:05:31.600><c> thing</c><00:05:31.840><c> is</c>
+
+00:05:32.270 --> 00:05:32.280 align:start position:0%
+language models and the good thing is
+ 
+
+00:05:32.280 --> 00:05:35.189 align:start position:0%
+language models and the good thing is
+that<00:05:32.600><c> with</c><00:05:32.840><c> a</c><00:05:33.199><c> curated</c><00:05:34.120><c> learning</c><00:05:34.759><c> path</c>
+
+00:05:35.189 --> 00:05:35.199 align:start position:0%
+that with a curated learning path
+ 
+
+00:05:35.199 --> 00:05:37.870 align:start position:0%
+that with a curated learning path
+learning<00:05:35.759><c> these</c><00:05:36.080><c> Concepts</c><00:05:36.759><c> at</c><00:05:36.919><c> a</c><00:05:37.199><c> depth</c><00:05:37.720><c> that</c>
+
+00:05:37.870 --> 00:05:37.880 align:start position:0%
+learning these Concepts at a depth that
+ 
+
+00:05:37.880 --> 00:05:40.830 align:start position:0%
+learning these Concepts at a depth that
+you<00:05:38.000><c> can</c><00:05:38.240><c> answer</c><00:05:38.639><c> at</c><00:05:38.800><c> least</c><00:05:39.120><c> 90</c><00:05:39.600><c> to</c><00:05:39.759><c> 95%</c><00:05:40.639><c> of</c><00:05:40.720><c> the</c>
+
+00:05:40.830 --> 00:05:40.840 align:start position:0%
+you can answer at least 90 to 95% of the
+ 
+
+00:05:40.840 --> 00:05:42.469 align:start position:0%
+you can answer at least 90 to 95% of the
+interview<00:05:41.240><c> questions</c><00:05:41.639><c> it's</c><00:05:41.800><c> not</c><00:05:42.000><c> hard</c><00:05:42.319><c> you</c>
+
+00:05:42.469 --> 00:05:42.479 align:start position:0%
+interview questions it's not hard you
+ 
+
+00:05:42.479 --> 00:05:44.830 align:start position:0%
+interview questions it's not hard you
+have<00:05:42.600><c> to</c><00:05:42.800><c> develop</c><00:05:43.520><c> enough</c><00:05:43.919><c> expertise</c><00:05:44.560><c> in</c>
+
+00:05:44.830 --> 00:05:44.840 align:start position:0%
+have to develop enough expertise in
+ 
+
+00:05:44.840 --> 00:05:47.909 align:start position:0%
+have to develop enough expertise in
+Python<00:05:45.479><c> that</c><00:05:45.759><c> you</c><00:05:45.919><c> can</c><00:05:46.160><c> solve</c><00:05:46.840><c> an</c><00:05:47.120><c> easy</c><00:05:47.520><c> lead</c>
+
+00:05:47.909 --> 00:05:47.919 align:start position:0%
+Python that you can solve an easy lead
+ 
+
+00:05:47.919 --> 00:05:49.629 align:start position:0%
+Python that you can solve an easy lead
+code<00:05:48.199><c> question</c><00:05:48.759><c> you</c><00:05:48.880><c> should</c><00:05:49.080><c> know</c><00:05:49.280><c> enough</c>
+
+00:05:49.629 --> 00:05:49.639 align:start position:0%
+code question you should know enough
+ 
+
+00:05:49.639 --> 00:05:51.469 align:start position:0%
+code question you should know enough
+python<00:05:50.199><c> that</c><00:05:50.360><c> you</c><00:05:50.479><c> can</c><00:05:50.680><c> write</c><00:05:50.960><c> some</c><00:05:51.160><c> basic</c>
+
+00:05:51.469 --> 00:05:51.479 align:start position:0%
+python that you can write some basic
+ 
+
+00:05:51.479 --> 00:05:53.230 align:start position:0%
+python that you can write some basic
+functions<00:05:52.080><c> you</c><00:05:52.280><c> have</c><00:05:52.479><c> basic</c><00:05:53.039><c> understanding</c>
+
+00:05:53.230 --> 00:05:53.240 align:start position:0%
+functions you have basic understanding
+ 
+
+00:05:53.240 --> 00:05:55.950 align:start position:0%
+functions you have basic understanding
+of<00:05:53.440><c> python</c><00:05:54.080><c> frequently</c><00:05:54.560><c> used</c><00:05:54.880><c> libraries</c><00:05:55.520><c> like</c>
+
+00:05:55.950 --> 00:05:55.960 align:start position:0%
+of python frequently used libraries like
+ 
+
+00:05:55.960 --> 00:05:57.909 align:start position:0%
+of python frequently used libraries like
+Panda<00:05:56.440><c> psychic</c><00:05:56.800><c> learn</c><00:05:57.080><c> which</c><00:05:57.199><c> I</c><00:05:57.520><c> previously</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+Panda psychic learn which I previously
+ 
+
+00:05:57.919 --> 00:06:01.430 align:start position:0%
+Panda psychic learn which I previously
+mentioned<00:05:58.680><c> and</c><00:05:58.880><c> now</c><00:05:59.280><c> car</c><00:05:59.960><c> tensor</c><00:06:00.360><c> flow</c><00:06:00.880><c> or</c><00:06:01.160><c> py</c>
+
+00:06:01.430 --> 00:06:01.440 align:start position:0%
+mentioned and now car tensor flow or py
+ 
+
+00:06:01.440 --> 00:06:04.350 align:start position:0%
+mentioned and now car tensor flow or py
+torch<00:06:02.000><c> any</c><00:06:02.240><c> of</c><00:06:02.440><c> these</c><00:06:02.919><c> ideally</c><00:06:03.319><c> pytorch</c><00:06:04.120><c> and</c>
+
+00:06:04.350 --> 00:06:04.360 align:start position:0%
+torch any of these ideally pytorch and
+ 
+
+00:06:04.360 --> 00:06:06.670 align:start position:0%
+torch any of these ideally pytorch and
+then<00:06:04.840><c> nowadays</c><00:06:05.560><c> some</c><00:06:06.080><c> understanding</c><00:06:06.319><c> of</c><00:06:06.520><c> how</c>
+
+00:06:06.670 --> 00:06:06.680 align:start position:0%
+then nowadays some understanding of how
+ 
+
+00:06:06.680 --> 00:06:08.469 align:start position:0%
+then nowadays some understanding of how
+Lang<00:06:07.000><c> chain</c><00:06:07.280><c> works</c><00:06:07.800><c> and</c><00:06:07.919><c> that</c><00:06:08.039><c> is</c><00:06:08.160><c> pretty</c><00:06:08.360><c> much</c>
+
+00:06:08.469 --> 00:06:08.479 align:start position:0%
+Lang chain works and that is pretty much
+ 
+
+00:06:08.479 --> 00:06:11.550 align:start position:0%
+Lang chain works and that is pretty much
+you<00:06:08.680><c> need</c><00:06:08.880><c> for</c><00:06:09.199><c> python</c><00:06:09.919><c> for</c><00:06:10.120><c> SQL</c><00:06:10.919><c> you</c><00:06:11.039><c> should</c>
+
+00:06:11.550 --> 00:06:11.560 align:start position:0%
+you need for python for SQL you should
+ 
+
+00:06:11.560 --> 00:06:14.230 align:start position:0%
+you need for python for SQL you should
+have<00:06:11.919><c> a</c><00:06:12.080><c> good</c><00:06:12.599><c> understanding</c><00:06:12.840><c> of</c><00:06:13.039><c> 10</c><00:06:13.319><c> to</c><00:06:13.520><c> 15</c>
+
+00:06:14.230 --> 00:06:14.240 align:start position:0%
+have a good understanding of 10 to 15
+ 
+
+00:06:14.240 --> 00:06:17.029 align:start position:0%
+have a good understanding of 10 to 15
+most<00:06:14.520><c> frequently</c><00:06:15.120><c> used</c><00:06:15.759><c> SQL</c><00:06:16.199><c> commands</c><00:06:16.759><c> for</c>
+
+00:06:17.029 --> 00:06:17.039 align:start position:0%
+most frequently used SQL commands for
+ 
+
+00:06:17.039 --> 00:06:18.950 align:start position:0%
+most frequently used SQL commands for
+statistics<00:06:17.520><c> and</c><00:06:17.759><c> probability</c><00:06:18.520><c> if</c><00:06:18.639><c> you</c><00:06:18.759><c> just</c>
+
+00:06:18.950 --> 00:06:18.960 align:start position:0%
+statistics and probability if you just
+ 
+
+00:06:18.960 --> 00:06:20.790 align:start position:0%
+statistics and probability if you just
+cover<00:06:19.360><c> the</c><00:06:19.520><c> topics</c><00:06:19.880><c> given</c><00:06:20.199><c> in</c><00:06:20.319><c> the</c><00:06:20.440><c> book</c>
+
+00:06:20.790 --> 00:06:20.800 align:start position:0%
+cover the topics given in the book
+ 
+
+00:06:20.800 --> 00:06:22.670 align:start position:0%
+cover the topics given in the book
+practical<00:06:21.199><c> statistics</c><00:06:21.680><c> for</c><00:06:21.880><c> data</c><00:06:22.080><c> scientists</c>
+
+00:06:22.670 --> 00:06:22.680 align:start position:0%
+practical statistics for data scientists
+ 
+
+00:06:22.680 --> 00:06:24.589 align:start position:0%
+practical statistics for data scientists
+I<00:06:22.759><c> think</c><00:06:23.000><c> this</c><00:06:23.120><c> is</c><00:06:23.360><c> enough</c><00:06:23.919><c> for</c><00:06:24.120><c> you</c><00:06:24.280><c> to</c><00:06:24.440><c> be</c>
+
+00:06:24.589 --> 00:06:24.599 align:start position:0%
+I think this is enough for you to be
+ 
+
+00:06:24.599 --> 00:06:26.749 align:start position:0%
+I think this is enough for you to be
+able<00:06:24.800><c> to</c><00:06:24.960><c> answer</c><00:06:25.360><c> 90</c><00:06:25.680><c> to</c><00:06:25.800><c> 95%</c><00:06:26.479><c> of</c><00:06:26.599><c> the</c>
+
+00:06:26.749 --> 00:06:26.759 align:start position:0%
+able to answer 90 to 95% of the
+ 
+
+00:06:26.759 --> 00:06:28.150 align:start position:0%
+able to answer 90 to 95% of the
+questions<00:06:27.080><c> which</c><00:06:27.199><c> are</c><00:06:27.440><c> asked</c><00:06:27.800><c> in</c><00:06:27.919><c> data</c>
+
+00:06:28.150 --> 00:06:28.160 align:start position:0%
+questions which are asked in data
+ 
+
+00:06:28.160 --> 00:06:30.749 align:start position:0%
+questions which are asked in data
+science<00:06:28.479><c> interviews</c><00:06:29.240><c> and</c><00:06:29.360><c> then</c><00:06:29.680><c> for</c><00:06:29.840><c> Gen</c><00:06:30.639><c> if</c>
+
+00:06:30.749 --> 00:06:30.759 align:start position:0%
+science interviews and then for Gen if
+ 
+
+00:06:30.759 --> 00:06:32.629 align:start position:0%
+science interviews and then for Gen if
+you<00:06:30.919><c> have</c><00:06:31.120><c> some</c><00:06:31.360><c> watched</c><00:06:31.639><c> some</c><00:06:31.800><c> videos</c><00:06:32.240><c> around</c>
+
+00:06:32.629 --> 00:06:32.639 align:start position:0%
+you have some watched some videos around
+ 
+
+00:06:32.639 --> 00:06:34.589 align:start position:0%
+you have some watched some videos around
+how<00:06:32.840><c> does</c><00:06:33.120><c> the</c><00:06:33.280><c> Transformers</c><00:06:34.000><c> work</c><00:06:34.400><c> what</c><00:06:34.520><c> is</c>
+
+00:06:34.589 --> 00:06:34.599 align:start position:0%
+how does the Transformers work what is
+ 
+
+00:06:34.599 --> 00:06:36.550 align:start position:0%
+how does the Transformers work what is
+the<00:06:34.759><c> attenion</c><00:06:35.160><c> mechanism</c><00:06:35.919><c> and</c><00:06:36.080><c> then</c><00:06:36.280><c> how</c><00:06:36.400><c> can</c>
+
+00:06:36.550 --> 00:06:36.560 align:start position:0%
+the attenion mechanism and then how can
+ 
+
+00:06:36.560 --> 00:06:38.589 align:start position:0%
+the attenion mechanism and then how can
+you<00:06:36.759><c> use</c><00:06:37.000><c> Lang</c><00:06:37.319><c> chain</c><00:06:37.720><c> to</c><00:06:37.880><c> build</c><00:06:38.199><c> rag</c>
+
+00:06:38.589 --> 00:06:38.599 align:start position:0%
+you use Lang chain to build rag
+ 
+
+00:06:38.599 --> 00:06:40.350 align:start position:0%
+you use Lang chain to build rag
+applications<00:06:39.400><c> that</c><00:06:39.520><c> is</c><00:06:39.639><c> pretty</c><00:06:39.880><c> much</c><00:06:40.080><c> all</c><00:06:40.240><c> you</c>
+
+00:06:40.350 --> 00:06:40.360 align:start position:0%
+applications that is pretty much all you
+ 
+
+00:06:40.360 --> 00:06:41.909 align:start position:0%
+applications that is pretty much all you
+need<00:06:40.560><c> to</c><00:06:40.720><c> crack</c><00:06:41.039><c> most</c><00:06:41.240><c> of</c><00:06:41.360><c> the</c><00:06:41.479><c> data</c><00:06:41.680><c> science</c>
+
+00:06:41.909 --> 00:06:41.919 align:start position:0%
+need to crack most of the data science
+ 
+
+00:06:41.919 --> 00:06:43.390 align:start position:0%
+need to crack most of the data science
+interviews<00:06:42.440><c> now</c><00:06:42.560><c> if</c><00:06:42.639><c> you're</c><00:06:42.840><c> applying</c><00:06:43.120><c> for</c>
+
+00:06:43.390 --> 00:06:43.400 align:start position:0%
+interviews now if you're applying for
+ 
+
+00:06:43.400 --> 00:06:45.990 align:start position:0%
+interviews now if you're applying for
+contract<00:06:43.840><c> roles</c><00:06:44.599><c> then</c><00:06:44.960><c> you</c><00:06:45.120><c> need</c><00:06:45.319><c> to</c><00:06:45.560><c> know</c><00:06:45.880><c> a</c>
+
+00:06:45.990 --> 00:06:46.000 align:start position:0%
+contract roles then you need to know a
+ 
+
+00:06:46.000 --> 00:06:47.749 align:start position:0%
+contract roles then you need to know a
+little<00:06:46.199><c> bit</c><00:06:46.440><c> of</c><00:06:46.840><c> what</c><00:06:46.960><c> are</c><00:06:47.160><c> the</c><00:06:47.280><c> tools</c><00:06:47.599><c> they</c>
+
+00:06:47.749 --> 00:06:47.759 align:start position:0%
+little bit of what are the tools they
+ 
+
+00:06:47.759 --> 00:06:49.790 align:start position:0%
+little bit of what are the tools they
+needed<00:06:48.280><c> because</c><00:06:48.479><c> a</c><00:06:48.599><c> lot</c><00:06:48.720><c> of</c><00:06:48.880><c> contract</c><00:06:49.280><c> roles</c>
+
+00:06:49.790 --> 00:06:49.800 align:start position:0%
+needed because a lot of contract roles
+ 
+
+00:06:49.800 --> 00:06:51.990 align:start position:0%
+needed because a lot of contract roles
+they<00:06:49.960><c> want</c><00:06:50.160><c> you</c><00:06:50.240><c> to</c><00:06:50.400><c> be</c><00:06:50.560><c> handson</c><00:06:51.080><c> from</c><00:06:51.280><c> day</c><00:06:51.479><c> one</c>
+
+00:06:51.990 --> 00:06:52.000 align:start position:0%
+they want you to be handson from day one
+ 
+
+00:06:52.000 --> 00:06:53.550 align:start position:0%
+they want you to be handson from day one
+Whatever<00:06:52.360><c> tools</c><00:06:52.680><c> they're</c><00:06:52.880><c> using</c><00:06:53.280><c> if</c><00:06:53.400><c> you</c>
+
+00:06:53.550 --> 00:06:53.560 align:start position:0%
+Whatever tools they're using if you
+ 
+
+00:06:53.560 --> 00:06:55.110 align:start position:0%
+Whatever tools they're using if you
+could<00:06:53.800><c> prepare</c><00:06:54.120><c> a</c><00:06:54.240><c> little</c><00:06:54.400><c> bit</c><00:06:54.880><c> understanding</c>
+
+00:06:55.110 --> 00:06:55.120 align:start position:0%
+could prepare a little bit understanding
+ 
+
+00:06:55.120 --> 00:06:56.909 align:start position:0%
+could prepare a little bit understanding
+of<00:06:55.319><c> that</c><00:06:55.800><c> that</c><00:06:55.879><c> will</c><00:06:56.080><c> really</c><00:06:56.360><c> help</c><00:06:56.560><c> you</c><00:06:56.680><c> for</c>
+
+00:06:56.909 --> 00:06:56.919 align:start position:0%
+of that that will really help you for
+ 
+
+00:06:56.919 --> 00:06:58.230 align:start position:0%
+of that that will really help you for
+contract<00:06:57.280><c> roles</c><00:06:57.680><c> and</c><00:06:57.800><c> then</c><00:06:57.919><c> if</c><00:06:58.039><c> you're</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+contract roles and then if you're
+ 
+
+00:06:58.240 --> 00:07:00.110 align:start position:0%
+contract roles and then if you're
+applying<00:06:58.520><c> for</c><00:06:58.680><c> Fang</c><00:06:59.000><c> companies</c><00:06:59.720><c> then</c><00:06:59.879><c> you</c>
+
+00:07:00.110 --> 00:07:00.120 align:start position:0%
+applying for Fang companies then you
+ 
+
+00:07:00.120 --> 00:07:01.710 align:start position:0%
+applying for Fang companies then you
+have<00:07:00.280><c> to</c><00:07:00.479><c> go</c><00:07:00.720><c> a</c><00:07:00.840><c> little</c><00:07:01.080><c> deep</c><00:07:01.360><c> on</c><00:07:01.520><c> your</c>
+
+00:07:01.710 --> 00:07:01.720 align:start position:0%
+have to go a little deep on your
+ 
+
+00:07:01.720 --> 00:07:03.270 align:start position:0%
+have to go a little deep on your
+programming<00:07:02.160><c> skills</c><00:07:02.639><c> because</c><00:07:02.879><c> that</c><00:07:03.039><c> is</c><00:07:03.120><c> a</c>
+
+00:07:03.270 --> 00:07:03.280 align:start position:0%
+programming skills because that is a
+ 
+
+00:07:03.280 --> 00:07:05.430 align:start position:0%
+programming skills because that is a
+very<00:07:03.520><c> essential</c><00:07:03.960><c> component</c><00:07:04.440><c> of</c><00:07:04.599><c> all</c><00:07:04.759><c> ml</c><00:07:05.080><c> roles</c>
+
+00:07:05.430 --> 00:07:05.440 align:start position:0%
+very essential component of all ml roles
+ 
+
+00:07:05.440 --> 00:07:08.589 align:start position:0%
+very essential component of all ml roles
+there<00:07:05.800><c> I</c><00:07:05.879><c> know</c><00:07:06.120><c> it</c><00:07:06.280><c> still</c><00:07:06.759><c> isn't</c><00:07:07.560><c> very</c><00:07:07.879><c> easy</c>
+
+00:07:08.589 --> 00:07:08.599 align:start position:0%
+there I know it still isn't very easy
+ 
+
+00:07:08.599 --> 00:07:11.670 align:start position:0%
+there I know it still isn't very easy
+but<00:07:09.120><c> with</c><00:07:09.280><c> the</c><00:07:09.479><c> focused</c><00:07:10.000><c> preparation</c><00:07:10.800><c> of</c><00:07:11.160><c> 4</c><00:07:11.479><c> to</c>
+
+00:07:11.670 --> 00:07:11.680 align:start position:0%
+but with the focused preparation of 4 to
+ 
+
+00:07:11.680 --> 00:07:14.309 align:start position:0%
+but with the focused preparation of 4 to
+6<00:07:11.960><c> months</c><00:07:12.720><c> depending</c><00:07:13.120><c> on</c><00:07:13.360><c> what</c><00:07:13.560><c> your</c><00:07:13.879><c> starting</c>
+
+00:07:14.309 --> 00:07:14.319 align:start position:0%
+6 months depending on what your starting
+ 
+
+00:07:14.319 --> 00:07:15.790 align:start position:0%
+6 months depending on what your starting
+point<00:07:14.599><c> is</c><00:07:14.840><c> I</c><00:07:14.960><c> think</c><00:07:15.080><c> you</c><00:07:15.160><c> should</c><00:07:15.319><c> be</c><00:07:15.440><c> in</c><00:07:15.520><c> a</c><00:07:15.639><c> very</c>
+
+00:07:15.790 --> 00:07:15.800 align:start position:0%
+point is I think you should be in a very
+ 
+
+00:07:15.800 --> 00:07:17.309 align:start position:0%
+point is I think you should be in a very
+good<00:07:16.000><c> position</c><00:07:16.319><c> that</c><00:07:16.440><c> you</c><00:07:16.560><c> should</c><00:07:16.720><c> be</c><00:07:16.840><c> able</c><00:07:17.039><c> to</c>
+
+00:07:17.309 --> 00:07:17.319 align:start position:0%
+good position that you should be able to
+ 
+
+00:07:17.319 --> 00:07:20.230 align:start position:0%
+good position that you should be able to
+answer<00:07:18.039><c> 90%</c><00:07:18.919><c> plus</c><00:07:19.240><c> questions</c><00:07:19.680><c> in</c><00:07:19.840><c> most</c><00:07:20.000><c> of</c><00:07:20.120><c> the</c>
+
+00:07:20.230 --> 00:07:20.240 align:start position:0%
+answer 90% plus questions in most of the
+ 
+
+00:07:20.240 --> 00:07:22.390 align:start position:0%
+answer 90% plus questions in most of the
+interviews<00:07:20.960><c> there</c><00:07:21.160><c> is</c><00:07:21.360><c> a</c><00:07:21.560><c> component</c><00:07:21.960><c> of</c><00:07:22.080><c> luck</c>
+
+00:07:22.390 --> 00:07:22.400 align:start position:0%
+interviews there is a component of luck
+ 
+
+00:07:22.400 --> 00:07:24.670 align:start position:0%
+interviews there is a component of luck
+in<00:07:22.560><c> all</c><00:07:22.759><c> interviews</c><00:07:23.400><c> but</c><00:07:23.720><c> preparation</c><00:07:24.319><c> wise</c><00:07:24.599><c> I</c>
+
+00:07:24.670 --> 00:07:24.680 align:start position:0%
+in all interviews but preparation wise I
+ 
+
+00:07:24.680 --> 00:07:26.350 align:start position:0%
+in all interviews but preparation wise I
+think<00:07:24.840><c> you</c><00:07:24.919><c> should</c><00:07:25.080><c> be</c><00:07:25.280><c> very</c><00:07:25.479><c> close</c><00:07:26.000><c> and</c><00:07:26.160><c> then</c>
+
+00:07:26.350 --> 00:07:26.360 align:start position:0%
+think you should be very close and then
+ 
+
+00:07:26.360 --> 00:07:28.189 align:start position:0%
+think you should be very close and then
+when<00:07:26.520><c> it</c><00:07:26.680><c> comes</c><00:07:27.000><c> to</c><00:07:27.199><c> the</c><00:07:27.360><c> point</c><00:07:27.639><c> of</c><00:07:27.919><c> how</c><00:07:28.080><c> you</c>
+
+00:07:28.189 --> 00:07:28.199 align:start position:0%
+when it comes to the point of how you
+ 
+
+00:07:28.199 --> 00:07:30.309 align:start position:0%
+when it comes to the point of how you
+can<00:07:28.479><c> succeed</c><00:07:28.960><c> in</c><00:07:29.080><c> your</c><00:07:29.240><c> data</c><00:07:29.560><c> today</c><00:07:29.800><c> jobs</c><00:07:30.199><c> if</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+can succeed in your data today jobs if
+ 
+
+00:07:30.319 --> 00:07:32.110 align:start position:0%
+can succeed in your data today jobs if
+you<00:07:30.560><c> have</c><00:07:30.759><c> the</c><00:07:30.919><c> basic</c><00:07:31.479><c> understanding</c><00:07:31.720><c> of</c><00:07:31.960><c> what</c>
+
+00:07:32.110 --> 00:07:32.120 align:start position:0%
+you have the basic understanding of what
+ 
+
+00:07:32.120 --> 00:07:34.029 align:start position:0%
+you have the basic understanding of what
+I've<00:07:32.319><c> covered</c><00:07:32.639><c> to</c><00:07:32.800><c> crack</c><00:07:33.039><c> the</c><00:07:33.160><c> interviews</c><00:07:33.800><c> and</c>
+
+00:07:34.029 --> 00:07:34.039 align:start position:0%
+I've covered to crack the interviews and
+ 
+
+00:07:34.039 --> 00:07:36.469 align:start position:0%
+I've covered to crack the interviews and
+then<00:07:34.400><c> you</c><00:07:34.560><c> have</c><00:07:34.840><c> dedication</c><00:07:35.560><c> and</c><00:07:35.800><c> good</c><00:07:36.120><c> soft</c>
+
+00:07:36.469 --> 00:07:36.479 align:start position:0%
+then you have dedication and good soft
+ 
+
+00:07:36.479 --> 00:07:38.790 align:start position:0%
+then you have dedication and good soft
+skills<00:07:37.280><c> which</c><00:07:37.400><c> is</c><00:07:37.560><c> mainly</c><00:07:37.919><c> communication</c>
+
+00:07:38.790 --> 00:07:38.800 align:start position:0%
+skills which is mainly communication
+ 
+
+00:07:38.800 --> 00:07:40.670 align:start position:0%
+skills which is mainly communication
+then<00:07:39.160><c> I</c><00:07:39.360><c> have</c><00:07:39.520><c> no</c><00:07:39.759><c> doubt</c><00:07:40.199><c> that</c><00:07:40.440><c> with</c>
+
+00:07:40.670 --> 00:07:40.680 align:start position:0%
+then I have no doubt that with
+ 
+
+00:07:40.680 --> 00:07:43.230 align:start position:0%
+then I have no doubt that with
+dedication<00:07:41.479><c> plus</c><00:07:41.800><c> good</c><00:07:42.039><c> communication</c><00:07:42.960><c> and</c>
+
+00:07:43.230 --> 00:07:43.240 align:start position:0%
+dedication plus good communication and
+ 
+
+00:07:43.240 --> 00:07:45.469 align:start position:0%
+dedication plus good communication and
+the<00:07:43.440><c> knowledge</c><00:07:43.960><c> you</c><00:07:44.199><c> have</c><00:07:44.479><c> acquired</c><00:07:44.960><c> to</c><00:07:45.159><c> crack</c>
+
+00:07:45.469 --> 00:07:45.479 align:start position:0%
+the knowledge you have acquired to crack
+ 
+
+00:07:45.479 --> 00:07:47.390 align:start position:0%
+the knowledge you have acquired to crack
+the<00:07:45.599><c> interviews</c><00:07:46.360><c> there</c><00:07:46.440><c> is</c><00:07:46.639><c> no</c><00:07:46.879><c> way</c><00:07:47.120><c> that</c><00:07:47.280><c> you</c>
+
+00:07:47.390 --> 00:07:47.400 align:start position:0%
+the interviews there is no way that you
+ 
+
+00:07:47.400 --> 00:07:49.710 align:start position:0%
+the interviews there is no way that you
+will<00:07:47.720><c> not</c><00:07:47.960><c> do</c><00:07:48.240><c> good</c><00:07:48.599><c> in</c><00:07:48.759><c> your</c><00:07:48.919><c> day-to-day</c><00:07:49.400><c> job</c>
+
+00:07:49.710 --> 00:07:49.720 align:start position:0%
+will not do good in your day-to-day job
+ 
+
+00:07:49.720 --> 00:07:51.469 align:start position:0%
+will not do good in your day-to-day job
+so<00:07:49.840><c> the</c><00:07:49.960><c> gist</c><00:07:50.199><c> of</c><00:07:50.319><c> the</c><00:07:50.440><c> matter</c><00:07:50.800><c> is</c><00:07:51.000><c> that</c><00:07:51.280><c> you</c>
+
+00:07:51.469 --> 00:07:51.479 align:start position:0%
+so the gist of the matter is that you
+ 
+
+00:07:51.479 --> 00:07:53.790 align:start position:0%
+so the gist of the matter is that you
+have<00:07:51.599><c> to</c><00:07:51.720><c> be</c><00:07:51.919><c> very</c><00:07:52.240><c> thoughtful</c><00:07:52.879><c> in</c><00:07:53.039><c> terms</c><00:07:53.319><c> of</c>
+
+00:07:53.790 --> 00:07:53.800 align:start position:0%
+have to be very thoughtful in terms of
+ 
+
+00:07:53.800 --> 00:07:56.510 align:start position:0%
+have to be very thoughtful in terms of
+what<00:07:54.199><c> learning</c><00:07:54.800><c> path</c><00:07:55.159><c> you</c><00:07:55.319><c> use</c><00:07:55.919><c> so</c><00:07:56.120><c> that</c><00:07:56.319><c> you</c>
+
+00:07:56.510 --> 00:07:56.520 align:start position:0%
+what learning path you use so that you
+ 
+
+00:07:56.520 --> 00:07:58.390 align:start position:0%
+what learning path you use so that you
+do<00:07:56.720><c> not</c><00:07:56.960><c> spend</c><00:07:57.280><c> a</c><00:07:57.440><c> lot</c><00:07:57.560><c> of</c><00:07:57.759><c> time</c><00:07:58.000><c> trying</c><00:07:58.280><c> to</c>
+
+00:07:58.390 --> 00:07:58.400 align:start position:0%
+do not spend a lot of time trying to
+ 
+
+00:07:58.400 --> 00:08:00.589 align:start position:0%
+do not spend a lot of time trying to
+solve<00:07:58.720><c> some</c><00:07:58.960><c> complex</c><00:07:59.639><c> calculus</c><00:08:00.120><c> or</c><00:08:00.280><c> linear</c>
+
+00:08:00.589 --> 00:08:00.599 align:start position:0%
+solve some complex calculus or linear
+ 
+
+00:08:00.599 --> 00:08:02.909 align:start position:0%
+solve some complex calculus or linear
+regression<00:08:01.120><c> or</c><00:08:01.440><c> linear</c><00:08:01.759><c> algebra</c><00:08:02.280><c> problems</c>
+
+00:08:02.909 --> 00:08:02.919 align:start position:0%
+regression or linear algebra problems
+ 
+
+00:08:02.919 --> 00:08:04.830 align:start position:0%
+regression or linear algebra problems
+which<00:08:03.120><c> have</c><00:08:03.479><c> no</c><00:08:03.840><c> relevance</c><00:08:04.479><c> to</c><00:08:04.639><c> your</c>
+
+00:08:04.830 --> 00:08:04.840 align:start position:0%
+which have no relevance to your
+ 
+
+00:08:04.840 --> 00:08:06.629 align:start position:0%
+which have no relevance to your
+day-to-day<00:08:05.400><c> data</c><00:08:05.639><c> science</c><00:08:05.960><c> job</c><00:08:06.280><c> I've</c><00:08:06.400><c> shared</c>
+
+00:08:06.629 --> 00:08:06.639 align:start position:0%
+day-to-day data science job I've shared
+ 
+
+00:08:06.639 --> 00:08:08.430 align:start position:0%
+day-to-day data science job I've shared
+in<00:08:06.720><c> the</c><00:08:06.879><c> description</c><00:08:07.479><c> the</c><00:08:07.599><c> road</c><00:08:07.919><c> map</c><00:08:08.120><c> guide</c>
+
+00:08:08.430 --> 00:08:08.440 align:start position:0%
+in the description the road map guide
+ 
+
+00:08:08.440 --> 00:08:10.390 align:start position:0%
+in the description the road map guide
+which<00:08:08.560><c> I</c><00:08:08.720><c> usually</c><00:08:09.039><c> recommend</c><00:08:09.440><c> to</c><00:08:09.639><c> people</c><00:08:10.240><c> in</c>
+
+00:08:10.390 --> 00:08:10.400 align:start position:0%
+which I usually recommend to people in
+ 
+
+00:08:10.400 --> 00:08:11.909 align:start position:0%
+which I usually recommend to people in
+terms<00:08:10.680><c> of</c><00:08:10.960><c> what</c><00:08:11.120><c> they</c><00:08:11.240><c> should</c><00:08:11.400><c> be</c><00:08:11.520><c> learning</c>
+
+00:08:11.909 --> 00:08:11.919 align:start position:0%
+terms of what they should be learning
+ 
+
+00:08:11.919 --> 00:08:13.149 align:start position:0%
+terms of what they should be learning
+and<00:08:12.080><c> from</c><00:08:12.280><c> where</c><00:08:12.479><c> they</c><00:08:12.560><c> should</c><00:08:12.720><c> be</c><00:08:12.800><c> learning</c>
+
+00:08:13.149 --> 00:08:13.159 align:start position:0%
+and from where they should be learning
+ 
+
+00:08:13.159 --> 00:08:15.469 align:start position:0%
+and from where they should be learning
+it<00:08:13.440><c> the</c><00:08:13.560><c> link</c><00:08:13.759><c> is</c><00:08:13.879><c> in</c><00:08:14.000><c> the</c><00:08:14.120><c> description</c><00:08:14.879><c> also</c><00:08:15.280><c> I</c>
+
+00:08:15.469 --> 00:08:15.479 align:start position:0%
+it the link is in the description also I
+ 
+
+00:08:15.479 --> 00:08:17.350 align:start position:0%
+it the link is in the description also I
+just<00:08:15.680><c> created</c><00:08:16.039><c> this</c><00:08:16.199><c> video</c><00:08:16.560><c> around</c><00:08:17.080><c> what</c><00:08:17.199><c> are</c>
+
+00:08:17.350 --> 00:08:17.360 align:start position:0%
+just created this video around what are
+ 
+
+00:08:17.360 --> 00:08:19.469 align:start position:0%
+just created this video around what are
+the<00:08:17.479><c> four</c><00:08:17.879><c> books</c><00:08:18.319><c> if</c><00:08:18.440><c> you</c><00:08:18.599><c> read</c><00:08:18.879><c> them</c><00:08:19.080><c> from</c><00:08:19.280><c> end</c>
+
+00:08:19.469 --> 00:08:19.479 align:start position:0%
+the four books if you read them from end
+ 
+
+00:08:19.479 --> 00:08:21.909 align:start position:0%
+the four books if you read them from end
+to<00:08:19.639><c> end</c><00:08:20.120><c> they</c><00:08:20.280><c> cover</c><00:08:20.720><c> most</c><00:08:21.039><c> of</c><00:08:21.280><c> these</c><00:08:21.520><c> topics</c>
+
+00:08:21.909 --> 00:08:21.919 align:start position:0%
+to end they cover most of these topics
+ 
+
+00:08:21.919 --> 00:08:23.230 align:start position:0%
+to end they cover most of these topics
+which<00:08:22.039><c> I</c><00:08:22.159><c> have</c><00:08:22.280><c> briefly</c><00:08:22.599><c> mentioned</c><00:08:23.000><c> in</c><00:08:23.080><c> this</c>
+
+00:08:23.230 --> 00:08:23.240 align:start position:0%
+which I have briefly mentioned in this
+ 
+
+00:08:23.240 --> 00:08:24.749 align:start position:0%
+which I have briefly mentioned in this
+video<00:08:23.680><c> the</c><00:08:23.800><c> link</c><00:08:23.960><c> for</c><00:08:24.159><c> that</c><00:08:24.360><c> video</c><00:08:24.599><c> is</c>
+
+00:08:24.749 --> 00:08:24.759 align:start position:0%
+video the link for that video is
+ 
+
+00:08:24.759 --> 00:08:26.270 align:start position:0%
+video the link for that video is
+somewhere<00:08:25.159><c> here</c><00:08:25.440><c> please</c><00:08:25.639><c> check</c><00:08:25.840><c> it</c><00:08:25.919><c> out</c><00:08:26.120><c> I'm</c>
+
+00:08:26.270 --> 00:08:26.280 align:start position:0%
+somewhere here please check it out I'm
+ 
+
+00:08:26.280 --> 00:08:27.990 align:start position:0%
+somewhere here please check it out I'm
+pretty<00:08:26.479><c> sure</c><00:08:26.680><c> you</c><00:08:26.879><c> like</c><00:08:27.080><c> it</c><00:08:27.280><c> and</c><00:08:27.440><c> it</c><00:08:27.520><c> will</c><00:08:27.720><c> help</c>
+
+00:08:27.990 --> 00:08:28.000 align:start position:0%
+pretty sure you like it and it will help
+ 
+
+00:08:28.000 --> 00:08:30.230 align:start position:0%
+pretty sure you like it and it will help
+you<00:08:28.400><c> a</c><00:08:28.599><c> lot</c><00:08:28.960><c> in</c><00:08:29.080><c> terms</c><00:08:29.280><c> of</c><00:08:29.560><c> getting</c><00:08:29.759><c> ready</c><00:08:30.080><c> for</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+you a lot in terms of getting ready for
+ 
+
+00:08:30.240 --> 00:08:31.710 align:start position:0%
+you a lot in terms of getting ready for
+your<00:08:30.360><c> data</c><00:08:30.599><c> science</c><00:08:30.840><c> interviews</c><00:08:31.479><c> thank</c><00:08:31.599><c> you</c>
+
+00:08:31.710 --> 00:08:31.720 align:start position:0%
+your data science interviews thank you
+ 
+
+00:08:31.720 --> 00:08:34.519 align:start position:0%
+your data science interviews thank you
+so<00:08:31.840><c> much</c><00:08:32.000><c> for</c><00:08:32.159><c> watching</c>
+

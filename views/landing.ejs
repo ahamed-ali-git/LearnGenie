@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnGenie - AI-Powered Video Learning Tools</title>
+    <script id="messenger-widget-b" src="https://cdn.botpenguin.com/website-bot.js" defer>67669fc9b57ceddd2b27ed9f,67669f9529c567839c93de2d</script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        :root {
+            --primary-color: #4f46e5;
+            --secondary-color: #4338ca;
+            --text-color: #1f2937;
+            --light-bg: #f3f4f6;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 4rem 2rem;
+            text-align: left;
+            min-height: 90vh;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 1rem 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .login-btn {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1.5rem;
+            border: 2px solid white;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .login-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .logo {
+            color: white;
+            font-weight: bold;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+
+        .hero-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 2rem;
+        }
+
+        .hero-content {
+            flex: 2;
+            max-width: 600px;
+        }
+
+        .hero-content h1 {
+            font-size: 3rem;
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+
+        .hero-content p {
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+            text-align: left;
+        }
+
+        .hero-image {
+            flex: 1;
+            position: relative;
+        }
+
+        .hero-image img {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+
+        /* Keeping all the existing styles below unchanged */
+        .features {
+            background: var(--light-bg);
+            padding: 6rem 2rem;
+            text-align: center;
+        }
+
+        .features h2 {
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            color: var(--text-color);
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .feature-card h3 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .how-it-works {
+            padding: 6rem 2rem;
+            text-align: center;
+        }
+
+        .steps-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 2rem auto;
+        }
+
+        .step-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 2rem;
+        }
+
+        .step-number {
+            background: var(--primary-color);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1rem;
+            font-weight: bold;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.3s ease;
+            font-weight: 500;
+        }
+
+        .btn:hover {
+            background: var(--secondary-color);
+        }
+
+        .demo-section {
+            padding: 6rem 2rem;
+            background: white;
+            text-align: center;
+        }
+
+        .demo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 4rem;
+            max-width: 1200px;
+            margin: 3rem auto;
+        }
+
+        .demo-card {
+            text-align: left;
+            padding: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .hero-container {
+                flex-direction: column;
+            }
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+            .features-grid, .steps-grid, .demo-grid {
+                grid-template-columns: 1fr;
+            }
+            .hero-image {
+                order: -1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <a href="#" class="logo">LearnGenie</a>
+        <div class="nav-buttons">
+            <a href="/register" class="login-btn">Login</a>
+            <a href="/register" class="btn">Try Now</a>
+        </div>
+    </nav>
+
+    <header class="header">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1>Transform Any Video Into Learning Materials</h1>
+                <p>LearnGenie uses AI to automatically create video summaries, flashcards, and quizzes from any educational video - helping you learn more effectively.</p>
+                <a href="/register" class="btn">Get Started Free</a>
+            </div>
+            <div class="hero-image">
+                <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa280b3ZreHJiaXYyMWg5NHF3aGthd2t2MjBubmYwNTVxZmdmYjN0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b7FXDIjRdVN6ePCjeL/giphy.webp" alt="LearnGenie platform preview">
+            </div>
+        </div>
+    </header>
+
+    <section class="features">
+        <h2>AI-Powered Learning Tools</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">📝</div>
+                <h3>Video Summaries</h3>
+                <p>Get concise, accurate summaries of any video content. Save time while retaining key information.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🗂</div>
+                <h3>Smart Flashcards</h3>
+                <p>Automatically generate comprehensive flashcard sets from video content for effective revision.</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">✍</div>
+                <h3>Custom Quizzes</h3>
+                <p>Test your understanding with AI-generated quizzes based on video content.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="how-it-works">
+        <h2>How It Works</h2>
+        <div class="steps-grid">
+            <div class="step-card">
+                <div class="step-number">1</div>
+                <h3>Upload Your Video</h3>
+                <p>Share any educational video you want to learn from - lectures, tutorials, or educational content.</p>
+            </div>
+            <div class="step-card">
+                <div class="step-number">2</div>
+                <h3>AI Processing</h3>
+                <p>Our advanced AI analyzes the video content and extracts key information and learning points.</p>
+            </div>
+            <div class="step-card">
+                <div class="step-number">3</div>
+                <h3>Get Learning Materials</h3>
+                <p>Instantly receive your video summary, flashcards, and quiz to enhance your learning.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="demo-section">
+        <h2>See It In Action</h2>
+        <div class="demo-grid">
+            <div class="demo-card">
+                <video width="100%" controls autoplay muted loop playsinline style="border-radius: 8px; margin-bottom: 1rem;">
+                    <source src="/videos/sunn.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <h3>Video Summary</h3>
+                <p>Comprehensive yet concise summaries that capture all key points</p>
+            </div>
+            <div class="demo-card">
+                <video width="100%" controls autoplay muted loop playsinline style="border-radius: 8px; margin-bottom: 1rem;">
+                    <source src="/videos/flash.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <h3>Interactive Flashcards</h3>
+                <p>Effective revision tools generated from video content</p>
+            </div>
+            <div class="demo-card">
+                <video width="100%" controls autoplay muted loop playsinline style="border-radius: 8px; margin-bottom: 1rem;">
+                    <source src="/videos/quiz.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <h3>Smart Quizzes</h3>
+                <p>Test your knowledge with custom-generated questions</p>
+            </div>
+        </div>
+        <a href="/register" class="btn">Try LearnGenie Free</a>
+    </section>
+
+    <script>
+        window.addEventListener('scroll', function() {
+            const nav = document.querySelector('.nav');
+            if (window.scrollY > 50) {
+                nav.style.background = 'rgba(79, 70, 229, 0.95)';
+            } else {
+                nav.style.background = 'rgba(255, 255, 255, 0.1)';
+            }
+        });
+
+
+        
+    </script>
+</body>
+</html>

@@ -18,7 +18,7 @@ LearnGenie is an AI-powered educational platform that transforms video content i
 ### Home Page
 ![Landing Page](./screenshots/screenshot1.png)
 
-### Route Visualization
+### Summary Page
 ![Summary Dashboard](./screenshots/screenshot2.png)
 
 ## Tech Stack 🛠
